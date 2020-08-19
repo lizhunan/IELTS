@@ -288,4 +288,71 @@ A比B少5%：A 5% less zhan B
 - 如果图中没有时间表，则看题目中是否有时间标志（从句中看），如果都没有则当一般现在时处理
 - 饼状图中，主语和谓语的搭配，百分比时不能占据的
 - then 表顺承（表示在哪之后），需要找到时间线，比如，A上升了40%,and then 上升50%
-- 
+- 关于介词
+    - 时间点
+        - at:在某一时间点，at+时间点，at 6 o'clock/sixteen years old/night（固定搭配）
+        - in:在某一时间段，in+时间段，in the monring/2014/summer/recent decades/January
+        - on:具体到某一天，on+星期几或某日，on Monday/January 31th/节日名
+    - 时间段（区间）
+        - during:在...期间发生了...，during+时间段，during 2008/the summer of 2000/the period of...
+        - over:在...期间（一直...），over+时间段，over a five year period/10 years
+        - for:...之久，for+时间段，for 2 years（两年之久）
+        - within:在...之内，within+时间段，within 7 years 
+        - throughout:自始至终（强调从开始到结尾），throughout+时间段，throughout the year
+        - from...to...:从...到...，from+时间点，from 1990 to 2000
+    - 其他时间概念
+        - since:自...以后（与完成时连用），since+时间点，since 1990/finshing his work/then（自那以后）
+        - till:直到...为止（用于肯定句），till+时间点，till 2001
+        - unitl:直到...为止（用于肯定句时，与till没有区别；如果在否定句中要倒装），until+时间点，until 2001/Not until 7 o'clock did we get home.
+        - between...and...:在...期间，between+时间点，between 2000 and 2010
+        - after:在...之后（不与完成时连用），after+时间点，after 9 o'clock
+        - before:在...之前，befor+时间点，before 9 o'clock
+        - by:在...之前，by+时间点，by 9 o'clock
+        - up to:直到...，up to+时间点，up to now（直到今天，固定搭配）/data
+    - 地点
+        - in:在...里面
+        - on:在...上面（有接触面）
+        - under:在...下面（有接触面）
+        - behind:在...后面
+        - in front of:在...前
+        - next to:在...旁边
+        - near:在...旁边
+        - below:在...下面（无接触面）
+        - above:在...上面（无接触面）
+        - far from:离...非常远
+        - between...and...:在...中间
+        - upside:在对面
+        - by:在旁边（距离非常近）
+        - beside:在旁边（距离非常近，与by类似）
+        - among:在...中间
+        - around:在...周围
+- 完成时态
+    - 现在完成时
+        - 情况一：过去的动作延续到现在，并可能延续下去
+            - 发生在过去
+            - 可延续动作
+            - 动作延续到现在
+            - 动作可能继续延续
+        - 情况二：过去的动作对现在的影响和结果
+            - 发生在过去
+            - 不可延续动作
+            - 动作已经结束
+            - 影响持续到现在
+        - 常见搭配（看到这些标记则认为是现在完成时）
+            - for+时间段 = 一段时间：He has stayed in Beijing for two years.
+            - since+时间点 = 自从：He has stayed in Beijing since two years ago.
+            - by+时间点 = 直到：By the end of year,they have finished their work.
+            - before = 之前：She has seen this movie before.
+            - already = 已经：I have already vistied my grandpa.
+            - yet = 已经（用于疑问句）：Have you visited your grandpa yet?
+            - ever = 曾经：I have ever visited my grandpa.
+    - 过去完成时
+        - 情况一：过去某时间动作完成了某个动作
+            - 发生在过去的过去
+            - 可延续动作
+            - 动作延续到过去的某个时间点
+        - 情况二：发生在过去的动作对过去的时间产生的影响
+            - 发生在过去的过去
+            - 不可延续动作
+            - 动作在过去时间点已经结束
+- 不及物动词没有被动语态
