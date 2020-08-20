@@ -356,3 +356,62 @@ A比B少5%：A 5% less zhan B
             - 不可延续动作
             - 动作在过去时间点已经结束
 - 不及物动词没有被动语态
+- 名词性从句
+    - 从句是一个完整的句子
+    - 呈现形式
+        - that-clauses:I kown that you love her.
+        - whether-/if-clauses:I do not whether you love her *or not*.I do not kown if you love her.*whether 和 if 在这里都作为是否，区别在于whether后可加 or not并且whether 可以放在句首*
+        - wh-clauses:
+            - What he did yesterday made me angry.
+            - When he will subscribe me is unkown.
+            - I want to kown how to keep happy.
+    - 宾语从句
+        - you love her.
+        - I know it.
+        - I konw <u>that you love her.</u>
+    - 主语从句
+        - The human brain develops even after puberty.
+        - The was reported by some scholars.
+        - <u>That the human brain develops even after puberty</u> was reported by some scholars.
+        - 主语从句一般用it做形式主语：It was reported by some scholars <u>that the human brain develops even after puberty.</u>
+    - 表语从句
+        - People do not care about others.
+        - My concern is this.
+        - My concern is <u>that people do not care about others.</u>
+- 定语从句
+    - 位置：紧跟它修饰的先行词
+    - 先行词：从句修饰的名词
+    - 从句缺成分
+    - 关系代词
+        - who：指代人，The wowan <u>who lives next door to me</u> is a doctor.
+        - whom：指代人与who的区别是先行词在从句中充当宾语所以用whowm，She is a good friend <u>whom you can depend on.</u>
+        - whose：指代所有格，There are some children <u>whose parents are too busy to take care of them.</u>
+        - which：指代物或者前面整个句子，Grace works for a company <u>which makes furniture.</u>
+        - that：指代物或者人，I do not like stories <u>that have unhappy endings.</u>
+        - where,which,in which 区分：
+            - This is the town <u>which I grew up in.</u>
+            - This is the town <u> in which I grew up</u>
+            - This is the town <u> where I grew up</u>
+            - 区分：如果从句不完整则用which，如果从句完整只是表状态则用关系副词where或which in
+- 情态动词
+    - 不单独存在
+    - 表看法/观点
+    - 过去式表委婉/客气
+    - can(could)/may(might)/will(would)/need/must/ought to/shell(should)
+    - 使用：
+        - 表能力
+            - can能够（现在的能力）:I can read this English book.
+            - could+do能够（过去能力）:She could play the violin since 4.
+            - could+have done原本能做到（但现在就没做到）:He could have looked over the papers in less than ten minutes.
+        - 表建议
+            - should+do应该:The uni should build a new library.
+            - should+have done原本应该做（但未做）:We should have done it in the first place.
+            - need需要（否定/疑问句）:You need not worry about it. = You do not need to worry about it.
+            - must必须:You must do as you are told.
+        - 表可能性
+            - might+do/be doing（be doing表正在）也许:We might be misjudging his motivite.
+            - may+do/be doing（语气比might更弱）也许:He may be a doctor one day.
+            - could+do/be doing(比might强一点)可能:She could be listening the music now.
+            - can not+do/be doing不可能:He can not be home at this time.
+            - would+do/be doing会:I think she would accept the invitation.
+            - must+do/be doing一定:You must walk mill among the hills without meeting anyone.
