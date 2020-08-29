@@ -15,7 +15,7 @@ how you first met
 how others behave towards him or her
 And explain why you think he or she is a good leader.
 
->1. Well, the person that I would like to talk about  is ZhanSan, who is my moniter in my university.
+>1. Well, the person that I would like to talk about ZhanSan, who is my moniter in my university.
 >2. Well, he both tall and well-built. And he always a confident smil on his face.
 >3. The first time I knew his was when I went to university first time. Since then we often study together.
 >4. Generally speaking, he is a man of responsibility, devotion and honesty. What impressed me most is that he is very responsible for his classmate. For example, during the football match, he worked in the gym and look after us. And my classmate and I respect him.
@@ -36,7 +36,7 @@ how you knew his person
 what this person does
 And explain why you respect this person.
 
->1. Well, the person that I would like to talk about is ZhangSan, who is my teacher in my university.
+>1. Well, the person that I would like to talk about ZhangSan, who is my teacher in my university.
 >2. Well, he both tall and well-built. And he always a confident smil on his face. Also, as a teacher, he dresses a white T-shirt, which makes him very professional.
 >3. The first time I knew his was when I went to university first time. Since then we often study together.
 >4. Generally speaking, he is a man of responsibility, devotion and honesty. What impressed me most is that he is very responsible for his students. For example, he awlays help students learing course and teach students method of study. 
