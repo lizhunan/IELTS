@@ -223,3 +223,27 @@ Personally, i think i prefer to live in a house, mainly because a house is spaci
 ### What kind of neighborhood/environment/surroundings would you like to live in?
 
 ### What do you usually do in your house/flat/room?
+
+
+----
+Well,I am study in Shandong jiaotong university.
+I am a year 4 university student now and my major is computer science.
+
+To begin with , our university has strong academic atomsphere. 
+Besides , there are many well-know prof. 
+Importantly, to graduate from there,we may have a good career prospect.
+
+
+
+My major is computer science.
+It's a popular major.
+and I belive that this major has a good career prospect.
+
+To begin with, it has a good career prospect.
+Besides, I am interested in this major and have a passion for it.
+What's particular important for me is that it always comes naturally to my mind.
+
+
+
+----
+
