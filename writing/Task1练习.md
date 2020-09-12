@@ -81,4 +81,14 @@ By contrast, the quntity of per person consumption of Chicken was the smallest w
 曲线图相对来说属于难度不是很大的题型。应该先根据横轴分析变化，然后再进行比较，描述变化的时候要注意归类，也就是把增长的归为一类，减少的归为另一类。同样都是增长或者减少的，则应该根据变化的幅度，从大到小排列。
 
 
+## 作业1
 
+### 批改前
+
+
+The bar chart illustrates how the children who take part in a sort of activities during two-week period occupied in their childhood in Australia.
+
+Watching Tv is most popular with children, which account for about 99% in Australia. And the percentage of boys and the percentage of girls are equal. This chart show that boys like sport and computer games than girls. As for Computer games, boys make up 80%, while girls take up around 61%. As for sport, the number of cycling occupy 60% and 40% in boys and girls respectively. The number of skateboarding and rollerblading make up 40% in boys and that take up 22% approximately.
+Compared with computer games and sport, arts can crafts is more popular with girls than boys. The percentage of arts can crafts in girls is about 45%. By contrast, the percentage of arts can crafts in boys is around 30%.
+
+To sum up,

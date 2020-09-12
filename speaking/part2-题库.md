@@ -305,3 +305,20 @@ Part3
 2 Do you think it is safe for animals to live in the cities?
 3 What problems will keep pets bring?
 4 How are pets now different from those in the past?
+
+--- 
+
+## 9.10
+
+### A person happy to know
+
+The person I would like to talk about my classmate. His name is ZhangSan.
+I first met him on the first day of our university, and we lived in the same dormitory. 
+I usually go to the gym with him in our campus. 
+He always help me stay in shape and lose my weight through give me some intruction about fitness.
+In addation, he is a energetic person. 
+When I feel tired and sad, He could inspire me and encourage me to keep going.
+Besides, we often hang out together at weekend. Such as playing football, shopping and wolk around my campus. 
+I am happy to kown him and to stay with him.
+
+---
