@@ -91,4 +91,27 @@ The bar chart illustrates how the children who take part in a sort of activities
 Watching Tv is most popular with children, which account for about 99% in Australia. And the percentage of boys and the percentage of girls are equal. This chart show that boys like sport and computer games than girls. As for Computer games, boys make up 80%, while girls take up around 61%. As for sport, the number of cycling occupy 60% and 40% in boys and girls respectively. The number of skateboarding and rollerblading make up 40% in boys and that take up 22% approximately.
 Compared with computer games and sport, arts can crafts is more popular with girls than boys. The percentage of arts can crafts in girls is about 45%. By contrast, the percentage of arts can crafts in boys is around 30%.
 
-To sum up,
+
+---
+
+ Wathing Tv could helps children broadern horizon, gain knowledge, and get hold of the social develompent. There are a kind of programmes in a verity of  channels. For example, chhildren can have access to documentary about universe, countries and animals, which children can not  learn from lessons at school.
+
+Tv programme could helps children improve memory  effect and develop their perception ability. There are many vivid images and sound effects, which can attract children's attention. As a result,  it is easy for them to remember what they are wachting.
+
+It is admitted that waching Tv can bring many problmes. For example, wathing Tv too much has bad effects on eyes. Besides, there are many pool quality-programmes, which can affect the mental develpment of  young people.
+
+
+* 英文逗号可以连接单词、动作、句子
+* gain/acquire/attain
+* can have access to 
+* It is easy to do. 
+* help sb do / to do
+
+---
+
+There are many advantages for younger people to take on government  positions. To begin with, young man are usually more energietic and createtive than elder, which means younger people have more passion for their career. As a result, government operation efficiency could be improved. In addition, younger people are good at study and more enjoy leaning especially new thing, which lead to the fact that reform could be fast and smooth.
+
+
+
+
+

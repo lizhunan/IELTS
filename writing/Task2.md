@@ -62,6 +62,12 @@
 - I tend to ...
 - I think...
 
+### Discuss both sides and give your opinion类题目开头段
+
+- 背景句
+- 双方观点
+- 个人观点：In the writing below, both views will be discussed and my opinion will  be given.
+
 ## 主体段
 
 1. 中心句
