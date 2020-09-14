@@ -66,7 +66,7 @@
 
 - 背景句
 - 双方观点
-- 个人观点：In the writing below, both views will be discussed and my opinion will  be given.
+- 个人观点：In the writing below, both views will be discussed and my opinion will be given.
 
 ## 主体段
 
