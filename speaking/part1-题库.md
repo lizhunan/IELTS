@@ -245,7 +245,7 @@ What's particular important for me is that it always comes naturally to my mind.
 
 ---
 
-## 9.8
+## study 9.8
 
 ### 5. Why did you choose to study that subject/those subjects? 
 
@@ -278,7 +278,7 @@ Because my classmate could give me some instruction.
 Besides, they can inspire me when I am frustrated（沮丧）.
 Importantly, we can sovle the problems more efficiently.
 
-## 9.9
+## living 9.9
 
 ### 3. How long have you lived in this area? What are the surroundings like? 
 
@@ -306,5 +306,55 @@ I prefer living a flat.
 Because there are a number of shops in the neighborbood, which makes my life convenient.
 Besides, the price of flat is cheaper.
 I like living in a flat very much.
+
+## hometown 9.14
+
+### Which city are you from? 
+
+I come from WeiFang which is a small city.
+My hometown is located in east of Shandong provence.
+
+### Is it a big city or a small town?
+
+My hometown is a small city.
+It takes me 30 minutes to drive across my city from east to the west.
+Besides, the population in my hometown is much smaller than that of Jinan
+
+### How long have you been living there? 
+
+I have lived there for more than 20 years since I was born. For the first 18 years in my life, I had never left my hometown. Then I went to another city to attend univercity. Now, I speed less time in my hometown than before because I work in Jinan.
+
+### Do you like your hometown?
+
+Yes, I like my hometown very much.
+There are many tasty snack in my hometown, such as braised meat, seafood and braised chicken.
+In recent years, many harbors are developing in some seaside towns, which improve fishing industry industry in my hometown.
+
+## hometown 9.15
+
+### What do you like most about your hometown?
+
+Of course it's the local food. 
+My favorite is the meat pie which is roasted in a special oven. 
+It tastes delicious and many tourists like to buy the meat pie when they visit my hometown.
+
+### Is there anything you dislike about your hometown?
+
+I dislike the traffic system in my hometown.
+The roads are usually crowded during rush hours, and it usually takes me 40 minutes to commute from home to school. 
+The traffic jam is really a problem.
+
+### Are there any changes in your hometown in recent years?
+
+Sure. The infrastructure is completed in my hometown in recent years. 
+We have more well-equipped schools and hospitals as well as parks. 
+All these facilities make our life convenience.
+
+### Do you think you will continue to live there for a long time in the future?
+
+Yes. I have a long-term plan to live in my hometown.
+My hometown is a developing city full of energy.
+To be more specific, there are many job opportunities for young people.
+I belive that young people can find good jobs in our city.
 
 --- 
