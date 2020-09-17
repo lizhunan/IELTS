@@ -321,4 +321,16 @@ When I feel tired and sad, He could inspire me and encourage me to keep going.
 Besides, we often hang out together at weekend. Such as playing football, shopping and wolk around my campus. 
 I am happy to kown him and to stay with him.
 
+## 9.17
+
+### A good leader
+
+Mike is a helpful and responsible person. 
+Actullay, he is always willing to help people around him, including me. 
+As the caption of our team, he often makes training plans for us aiming to improve our training effect.
+Regarding why I think he is a good leader.
+Firstly, Mike's communicating skills are impressive. He can communicate with almost every person, even with strangers.
+Mike often organizes competitions with other teams.
+So, these two qualities are vital to a good leader.
+
 ---

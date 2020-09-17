@@ -85,12 +85,19 @@ By contrast, the quntity of per person consumption of Chicken was the smallest w
 
 ![范文图片](./resource/10.jpg)
 
-### 批改后
-
 The bar chart illustrates how the children who take part in a sort of activities during two-week period occupied in their childhood in Australia.
 
 Watching Tv is most popular with children, which account for about 99% in Australia. And the percentage of boys and the percentage of girls are equal. This chart show that boys like sport and computer games than girls. As for Computer games, boys make up 80%, while girls take up around 61%. As for sport, the number of cycling occupy 60% and 40% in boys and girls respectively. The number of skateboarding and rollerblading make up 40% in boys and that take up 22% approximately.
 Compared with computer games and sport, arts can crafts is more popular with girls than boys. The percentage of arts can crafts in girls is about 45%. By contrast, the percentage of arts can crafts in boys is around 30%.
+
+![范文图片](./resource/11.jpg)
+
+The pie chart indicates how the tourists' behavior from different areas occupied during a travel in Australia.
+
+Australia tourist industory is popular with Asian and European, which tourists from Asia and Europe account for 72%. The percentage of tourists from Asain is the largest with 37%. Asian always live in a 5-starhotel, and usually stay in Australia about 7 days. In these 7 days, their are fond of sightseeing. Compared with Asian, European usually live in a 4-starhotel rather than 5-starhotal. And the they have more time staying in Australia at 14 days. The must pupolar activity is simiar with Asian, they both keen on sightseeing.
+
+For US tourists, swimming and sunbathing are both popular with US tourists, and they always live in camping caravan. Specially, they could stay 16 days in Australia. But US tourists merely take up around 18%. The percent of tourist from other regions is the smallest with 10%. They live in camping caravan like US tourists during these 10 days. And their activity is surfing.
+
 
 ---
 

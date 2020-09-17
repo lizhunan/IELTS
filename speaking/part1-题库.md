@@ -348,7 +348,7 @@ The traffic jam is really a problem.
 
 Sure. The infrastructure is completed in my hometown in recent years. 
 We have more well-equipped schools and hospitals as well as parks. 
-All these facilities make our life convenience.
+All these facilities make our life convenient.
 
 ### Do you think you will continue to live there for a long time in the future?
 
@@ -356,5 +356,43 @@ Yes. I have a long-term plan to live in my hometown.
 My hometown is a developing city full of energy.
 To be more specific, there are many job opportunities for young people.
 I belive that young people can find good jobs in our city.
+
+## hometown & new people 9.16
+
+### What kind of cities do you like?
+
+- First-tier city 一线城市
+- Metropolis 大都市
+- Emerging industry 新兴产业
+
+Well, I prefer the first-tier city. 
+There cities are attractive to young people in that there are emerging industries and high-piad jobs. 
+We can make more money and achieve our career and life goals.
+
+### Do you often meet new people? 
+
+Yes. I am a chairman of students' union in our university.
+I often organize some activities in our university, though which I could meet some new people everyday.
+Besides, I usually communicate with universities, companies, and students. 
+So, I must meet a variety of people.
+
+### Can you communicate smoothly with new people? 
+
+Yes, of course.
+As the chairman, it is my duty to welcome the visiting teachers and students from other universities and introduce the facilities to them.
+I am really good at starting and continuing topics, even with new people.
+
+### Do you care about other’s comments on your appearance? 
+
+- Height 身高
+- Body figure 身材
+
+To some extent, I agree. I will give you one example. If a person often wears fashionable clothes, we can know that he or she is keen on fashionable staff and prefers to follow the latest trend. Another example is that normally a person with warm smile often turns out to be a kind person.
+
+## new people 9.17
+
+### Do you care about other’s comments on your appearance?
+
+Not really. In my view, appearance is not important for me. I belive many qualities are more important than appearance, such as working ability, learning ability and moral vitrues for a person. Appearance is only a minor factor for a man.
 
 --- 
