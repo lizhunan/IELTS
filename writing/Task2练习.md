@@ -102,3 +102,15 @@ To sum up, there are many advantages **~~when~~ for^4^** students travelling or 
 2. 拼写错误
 3. 此处involved用被动，表明人们参加，能够接触到文化的意思。如果用主动是指人们涉及到一系列的文化
 4. 介词使用错误。对于学生来说旅行的好处，而不是当学生们旅行时的好处
+
+
+
+
+---
+
+Recently, An increaseing number of women have full time jobs, which means that  they would have less time to do  household chores. So, many people suggest that both women and men should share the housework task equally. As far as  I am concerned, I disagree this statement.
+
+The volume of housework denpends on familiy member's contribution to their families. To be specific, people who have less contribution especially aspect of economic should shoulder/undertake more household choress. For example, people who contributes more to their family could spend more time in getting more money rather than  doing housework at which they are not good.
+
+Household chores should be divided accoding to  people's work time. Some work longer while others have flexible work time, which means that it is impossible to  divide their housework time equally . There are two different reasons. Firstly, people who spend more time in their jobs such as woker in factory always have less time in their house, so, they could not undertake more hoursehold choress. Secondly, what many people are good at is different. To be specific, most men suitable for heavy work and women are good at housework that needs care and patience.
+
