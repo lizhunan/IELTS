@@ -81,7 +81,7 @@ By contrast, the quntity of per person consumption of Chicken was the smallest w
 曲线图相对来说属于难度不是很大的题型。应该先根据横轴分析变化，然后再进行比较，描述变化的时候要注意归类，也就是把增长的归为一类，减少的归为另一类。同样都是增长或者减少的，则应该根据变化的幅度，从大到小排列。
 
 
-## 饼状图
+## 静态图
 
 ![范文图片](./resource/10.jpg)
 
@@ -92,12 +92,27 @@ Compared with computer games and sport, arts can crafts is more popular with gir
 
 ![范文图片](./resource/11.jpg)
 
-The pie chart indicates how the tourists' behavior from different areas occupied during a travel in Australia.
+The pie chart indicates **how the tourists' behavior from different areas occupied^1^** during a travel in Australia.
 
-Australia tourist industory is popular with Asian and European, which tourists from Asia and Europe account for 72%. The percentage of tourists from Asain is the largest with 37%. Asian always live in a 5-starhotel, and usually stay in Australia about 7 days. In these 7 days, their are fond of sightseeing. Compared with Asian, European usually live in a 4-starhotel rather than 5-starhotal. And the they have more time staying in Australia at 14 days. The must pupolar activity is simiar with Asian, they both keen on sightseeing.
+Australia tourist **~~industory~~ industry^2^** is popular with Asian and European, which tourists from Asia and Europe account for 72%. The percentage of tourists from **~~Asain~~ Asian^2^** is the largest with 37%. Asian always live in a 5-starhotel, and usually stay in Australia about 7 days. In these 7 days, their are fond of sightseeing. Compared with Asian, European usually live in a 4-starhotel rather than 5-starhotal. And the they have more time staying in Australia at 14 days. The must pupolar activity is simiar **~~with~~ to^3^** Asian, they **are^4^** both keen on sightseeing.
 
 For US tourists, swimming and sunbathing are both popular with US tourists, and they always live in camping caravan. Specially, they could stay 16 days in Australia. But US tourists merely take up around 18%. The percent of tourist from other regions is the smallest with 10%. They live in camping caravan like US tourists during these 10 days. And their activity is surfing.
 
+- 需要添加组之间的对比描述
+1. 语法错误
+2. 拼写错误
+3. 一般用 be similar to ...与...相似
+4. keen 是形容词，keen on 喜欢... be keen on
+
+## 动态图
+
+![范文图片](./resource/14.jpg)
+
+The table indicates how the number of people involved in wildlife survey activity changed from 2001 to 2009 in Britain.
+
+The number of adult taking part in a wildlife survey were largest in 2001, which was 36,000. The quantity of children involving in this activity were 12,000. And the figure of adult is more than that of children. In 2001, there are about 48,000 taking part in a wildlife survey in Britain. The period of 2001 to 2005 witnessed a increase in number of adult involved in this activity from 36,000 to 332,000. And this figure peaked at 332,000 in 2005. Similarly, an increase can be saw in number of **children taking part in this activity^1^** 12,000 in 2001 to 36,000 in 2003. But this figure is fall back 32,000 in 2005. From 2005 to 2007, the number of adult and the number of children taking part in wildlife survey declined from 332,000 to 331,000 in adult group and from 32,000 to 31,000 in children group respectively(我想表达的是成人和儿童参加救援活动的人数分别从...增加到...). Howerver, the number of adult involved in this activity dropped from 331.000 in 2007 to 27,000 in 2009. Compared with the number of adult, the quanlity of children rocket sharply from 31,000 to 270,000. And the number of tatal in this activity increased from 48,000 in 2001 to 540,000 in 2009.
+
+1. 没有注明儿童
 
 ---
 

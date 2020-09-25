@@ -103,14 +103,43 @@ To sum up, there are many advantages **~~when~~ for^4^** students travelling or 
 3. 此处involved用被动，表明人们参加，能够接触到文化的意思。如果用主动是指人们涉及到一系列的文化
 4. 介词使用错误。对于学生来说旅行的好处，而不是当学生们旅行时的好处
 
+## Gender 
 
-
-
----
+![范文图片](./resource/13.jpg)
 
 Recently, An increaseing number of women have full time jobs, which means that  they would have less time to do  household chores. So, many people suggest that both women and men should share the housework task equally. As far as  I am concerned, I disagree this statement.
 
 The volume of housework denpends on familiy member's contribution to their families. To be specific, people who have less contribution especially aspect of economic should shoulder/undertake more household choress. For example, people who contributes more to their family could spend more time in getting more money rather than  doing housework at which they are not good.
 
 Household chores should be divided accoding to  people's work time. Some work longer while others have flexible work time, which means that it is impossible to  divide their housework time equally . There are two different reasons. Firstly, people who spend more time in their jobs such as woker in factory always have less time in their house, so, they could not undertake more hoursehold choress. Secondly, what many people are good at is different. To be specific, most men suitable for heavy work and women are good at housework that needs care and patience.
+## Sport and Leisure
 
+![范文图片](./resource/12.jpg)
+
+- 双边讨论话题
+- 团队运动
+    - 培养团队合作精神
+    - 提升个人沟通能力
+    - 队长可以提升自身的领导能力
+    - 队员之间可以促进友情
+    - 
+- 个人运动 
+    - 不用顾及人数的限制，可以随时进行运动
+    - 提高自己解决问题的能力
+
+Recently, more and more people enjoy a variety of sport, such as football, swimming and so on. Many people think that taking part in team sports is more beneficial. But others think it is beneficial to take part in individual sports. In the writing below, both views will be discussed and my opinion will be given.
+
+**~~Many people think that~~^1^** Team sports is better than individual sports. Firstly, teamwork is quite important to many sports, such as football, basketball, volleyball and so on, which needs perfect collaboration between team. So, during the sport or match period, these sports not only needs teamwork but also could improve team spirit for every team members. Secondly, it is useful that improve people's communication skills. In a kind of team sports with others, a man must communicate with other members. And communication is vital to a sport especially a match. Every team member **~~have~~ has^2^** chance to communicate with each other, which could improve member's communication skills. In addition, both improving captain's leadership and developing team member's friendship could advance in sports which are played in teams.
+
+**~~However, others think~~^1^** Individual sports is more beneficial. Individual sports **~~are no~~ do not^6^** number limit such as swimming and walking. So people could sport everytime without other team member. Besides, individual sports could improve our ability of solving problems. For example, people are usually **involved in^7^** a variety of problems such as injuries. **~~So, we must solve these problems alone.~~**
+
+In my view, team sports is better than individual sports.
+
+1. 
+2. 注意单三
+3. 
+4. 
+5. 
+6. 没有人数限制 do not have number limit
+7. involved in 参与到
+8. 独立解决问题的例子不合适
