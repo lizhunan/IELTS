@@ -395,4 +395,106 @@ To some extent, I agree. I will give you one example. If a person often wears fa
 
 Not really. In my view, appearance is not important for me. I belive many qualities are more important than appearance, such as working ability, learning ability and moral vitrues for a person. Appearance is only a minor factor for a man.
 
+## Famous people 9.21
+
+###  Have you ever met famous people? 
+
+Yes. When I was a senior in our university, I met a famous people.
+He is a comedian whose name is Yu Qian. He is stout with balck curly hair. 
+Mr. Yu is very amiable and we took a picture together.
+
+### What kinds of famous people do you like? 
+
+I like many famous people in different areas, including doctors, engineers, scientists and comedians.
+Because there people contribute much to our society and make our life more convenient and happier.
+
+### Do you want to be a famous person? 
+
+Sure, I want to be a well-known man. Being famous can bring me wealth and reputation.
+Meanwhile, I will have access to more resources and contribute to the society.
+
+### If you had a chance, would you like to interview a celebrity? 
+
+Yes. I'd like to interview the comedian I have mentioned just now, Yu Qian.
+I want to ask some questions, such as "why is he so humorous with so many jokes?".
+Because I want to be a person who can bring laughter to other, just like him.
+
+## Interests & Hobbies 9.22
+
+### Is fishing popular in China?
+
+Sure. Fishing is a popular activity in China.
+People like going fishing by the lake or river.
+In fact, this summer holiday, my father and I went fishing frequnently. 
+It is indeed a fun activity.
+
+### Why do some people like going fishing?
+
+The most important factor is the sense of achievement when people get a fish.
+Bisides, some people just enjoy the peaceful surroundings in nature when they go fishing.
+
+### Do you like fishing?  
+
+Certainly. As I have mentioned just now, I enjoy the peaceful environment around a lake or river.
+It makes me calm down easily and fishing provides me a chance to spend time with my parents in holidays.
+Most importantly, fishing gives me a sense of self-satisfaction. 
+
+### Do you want to keep a fish as a pet?
+
+No. Honestly, I don't know how to keep a fish at all.
+When I was a kid, I kept a fish, but it startved to death.
+This experience put me in sadness.
+I told myself that I would never keep a fish anymore.
+
+### Where can people go fishing? 
+
+There are many place where people can fishing, such as park, lake and river.
+For example, in the QuanCheng park, there are a variety of fish which are attractive to fishing lovers.
+Many people like finshing in a peaceful surroundings.
+
+### Do you like eating fish? 
+
+Of course. I like eating fish very much. I like fish no matter how it's cooked, steamed fish, braised fish or fried fish. 
+For me, steamed fish with rice is the most tasty food.
+
+### Where can you see fish
+
+Well, the first place comes into my mind is aquarium where people can see various fish. Besides, as I mentioned just now, I like eating fish, so I go to the market frequently and see different fish there. I’m a fan of fishing, and when I go fishing by the lake, I can see fish swimming about.
+
+## Movie 9.23
+
+### When was the last time when you watched a movie? 
+
+Well, quite a long time ago. 
+It was 2018 when I was a third-year student in university that I watched a movie in cinema with my girlfriend.
+It was an unforgettable time.
+The movie we watched was Resident Evilwhich which was thrilling and well-liked worldwide.
+
+### Do you like watching movies? 
+
+Yes. I like watching movies very much.
+A good movie can inspire me, give me new ideas and help me calm down. 
+But recently, I prepare for the IELTS test and have no chance to watch movies with friends or family. 
+
+### What type of movie do you like? 
+
+I like watching comedy.
+The humorous comedians and talented directors can bring happiness to the audience, and comedies can heal people’s pain and sadness, so comedies are attractive to me. 
+
+## Newspaper and Magazine 9.24
+
+### Do you prefer to read newspapers or magazines? What are the differences between the two? 
+
+OK, I prefer to read magazines, specialized magazines in particular, such as computer science.
+I can gain useful knowledge from this kind of magazines.
+It’s helpful for my study and work. 
+
+Firstly, newspapers are usually printed daily, but magazines are often printed monthly. 
+Secondly, newspapers mainly focus on real-time events, but magazines usually focus on specialized fields/areas.
+
+### When was the last time when you read a newspaper or magazine? 
+
+OK, I read a newspaper yesterday called News Daily.
+It’s a local newspaper in Jinan, which is mainly about city construction, policies and so on. I can gain much useful information from it. 
+
 --- 
