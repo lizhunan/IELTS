@@ -125,21 +125,41 @@ Household chores should be divided accoding to  people's work time. Some work lo
     - 
 - 个人运动 
     - 不用顾及人数的限制，可以随时进行运动
-    - 提高自己解决问题的能力
+    - 提高自己解决问题的能力，在以后的生活中会
 
 Recently, more and more people enjoy a variety of sport, such as football, swimming and so on. Many people think that taking part in team sports is more beneficial. But others think it is beneficial to take part in individual sports. In the writing below, both views will be discussed and my opinion will be given.
 
-**~~Many people think that~~^1^** Team sports is better than individual sports. Firstly, teamwork is quite important to many sports, such as football, basketball, volleyball and so on, which needs perfect collaboration between team. So, during the sport or match period, these sports not only needs teamwork but also could improve team spirit for every team members. Secondly, it is useful that improve people's communication skills. In a kind of team sports with others, a man must communicate with other members. And communication is vital to a sport especially a match. Every team member **~~have~~ has^2^** chance to communicate with each other, which could improve member's communication skills. In addition, both improving captain's leadership and developing team member's friendship could advance in sports which are played in teams.
+**~~Many people think that~~^1^** Team sports is better than individual sports. Firstly, **teamwork is quite important to many sports, such as football, basketball, volleyball and so on, which needs perfect collaboration between team.^3^** So, during the sport or match period, these sports not only needs teamwork but also could improve team spirit for every team members. Secondly, it is useful that improve people's communication skills. In a kind of team sports with others, a man must communicate with other members. And communication is vital to a sport especially a match. Every team member **~~have~~ has^2^** chance to communicate with each other, which could improve member's communication skills. **In addition, both improving captain's leadership and developing team member's friendship could advance in sports which are played in teams.^5^**
 
-**~~However, others think~~^1^** Individual sports is more beneficial. Individual sports **~~are no~~ do not^6^** number limit such as swimming and walking. So people could sport everytime without other team member. Besides, individual sports could improve our ability of solving problems. For example, people are usually **involved in^7^** a variety of problems such as injuries. **~~So, we must solve these problems alone.~~**
+**~~However, others think~~^1^** Individual sports is more beneficial. Individual sports **~~are no~~ do not^6^** number limit such as swimming and walking. So people could sport everytime without other team member. Besides, individual sports could improve our ability of solving problems. For example, people are usually **involved in^7^** a variety of problems such as injuries. **~~So, we must solve these problems alone.^8^~~**
 
-In my view, team sports is better than individual sports.
+**In my view, team sports is better than individual sports.^9^**
 
-1. 
+1. 不需要其他人认为，直接论述
 2. 注意单三
-3. 
+3. 拓展团队合作的优势，要延伸到以后的工作和学习中
 4. 
-5. 
+5. 应该放在结尾段进行说明
 6. 没有人数限制 do not have number limit
 7. involved in 参与到
 8. 独立解决问题的例子不合适
+9. 后面需要再讲理由，结尾段不能一句话。写一个我自己支持的原因
+
+
+
+- 原因
+    - 人口急剧增加
+    - 人们对食物的要求变高，比如，质量，营养，多样化
+- 措施
+    - 发展科技，在少的土地上高产，比如，立体农业
+    - 保护土地，环境保护
+
+Recently, the sort of food is more rich in our society. People' demand for food is increasing in the world. The reason of increase  will be discussed and measures will be given.
+
+There are two factors for the rise in the need food. Firslty, the world population sharply rocket in recent years, which was about 6 billion. More people means more food everyday. Scondly, with the repaid development of technology and economy, people's living  standard is improve greatly. That is say, many people need higher quantily and a wide of food. For example,  people used to have one or two kind of food, but now they can afford more food in one dish so that there much more nutrition in the diet. As a reslut, they have healther body.
+
+Two measures can be taken to sovle this problems. To begin with, Scientists and experts in argiculture develop technology about productive and  higher quanlity 
+
+
+
+

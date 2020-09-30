@@ -114,6 +114,28 @@ The number of adult taking part in a wildlife survey were largest in 2001, which
 
 1. 没有注明儿童
 
+
+
+1. twice 二倍
+2. three times 三倍
+3. larger than / smaller than / more than / less than
+The adult were 200m more than the children
+4. This figure sharply rise from 31,000 in 2007 to 270,000 in 2009.
+    This figure sharply rise by 24,000 from 2007 to 2009.
+5. there were 100 people in total 总共有100人
+6. the total of people who taking part in this activity this 100.
+
+
+
+In 2001, the number of  people taking part in  a willife survey in total was the smallest, which was 48,000. The number of of people involved in this activity in 2003 was four times larger than those in 2001. ~~An sharp increase could be saw from  48,000 in 2001 to 248,000 in 2003.~~ The period of 2003 to 2009 saw an increase from 248,000 to 540,000 .~~And this figure peaked at 540,000  in 2009.~~
+
+In 2001, the number of adult involved in wildlife survey was the smallest with 36,000. There was a dramatic rise in the number of adult taking part in this activity from 36,000 in 2001 to 212,000 in 2003. This figure slowly incline from 212,000 in 2003 to 332,000 in 2005. However, there was a drop in this figure from 332,000 in 2005 to 270,000 in 2009.
+
+In 2001, the number of children taking part in wildlife survey wasthe smallest at 12,000.  This figure in 2003 was three times larger than those in 2001. But a drop could be seen from 36,000 in 2003 to 31,000 in 2007.  This figure sharply rise from 31,000 in 2007 to 270,000 in 2009.
+
+
+
+
 ---
 
 
