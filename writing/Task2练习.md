@@ -39,22 +39,6 @@ In my opinion, everyone can become outstanding
 - 写作思路：
 本文需要讨论要成为出色的运动员或是音乐家，是天分依靠，还是靠后天的教育和训练才能做到。构思时，考生应该从两方面进行分析和论证，在此基础上得出自己的倾向。最简单的写法是文章分为四段：第一段引出话题，第二、三段分别讨论两个方面的观点和各自的理由，第四段提出自己的观点。更加复杂一点的写法是把自己的观点结合进第二、三段，也就是说，在讨论别人观点的时候就进行有倾向性的评价。    
 
-## 7-1-2
-
-![范文图片](./resource/7.png)
-
-### 批改前
-
-观点：应该对不同类型的罪犯施行不同的刑罚
-分论点1：
-可以对罪犯进行合适的改造
-对不同罪犯进行不同的刑罚-
-
-分论点2：
-
-
-Nowadays, many people argue that different kind of crime should be fixed punishments. However, others think that people should 
-
 ## Education
 
 ![范文图片](./resource/9.jpg)
@@ -76,6 +60,10 @@ It is admitted that waching Tv can bring many problmes. For example, wathing Tv 
 ## Government and Society 
 
 There are many advantages for younger people to take on government positions. To begin with, young man are usually more energietic and createtive than elder, which means younger people have more passion for their career. As a result, government operation efficiency could be improved. In addition, younger people are good at study and more enjoy leaning especially new thing, which lead to the fact that reform could be fast and smooth.
+
+![范文图片](./resource/000.jpg)
+
+Recently, with the economy developing rapidly, more and more people driver car 
 
 ## Tourism
 
@@ -112,6 +100,7 @@ Recently, An increaseing number of women have full time jobs, which means that  
 The volume of housework denpends on familiy member's contribution to their families. To be specific, people who have less contribution especially aspect of economic should shoulder/undertake more household choress. For example, people who contributes more to their family could spend more time in getting more money rather than  doing housework at which they are not good.
 
 Household chores should be divided accoding to  people's work time. Some work longer while others have flexible work time, which means that it is impossible to  divide their housework time equally . There are two different reasons. Firstly, people who spend more time in their jobs such as woker in factory always have less time in their house, so, they could not undertake more hoursehold choress. Secondly, what many people are good at is different. To be specific, most men suitable for heavy work and women are good at housework that needs care and patience.
+
 ## Sport and Leisure
 
 ![范文图片](./resource/12.jpg)
@@ -160,6 +149,22 @@ There are two factors for the rise in the need food. Firslty, the world populati
 
 Two measures can be taken to sovle this problems. To begin with, Scientists and experts in argiculture develop technology about productive and  higher quanlity 
 
+## Money
 
+![范文图片](./resource/13.jpg)
+
+- 增加额外的财富，建设更多的文化娱乐设施，丰富人们的生活，人们会更加幸福
+- 增加额外的财富，使得社会的各个方面更加完善，人们安居乐业，人们会更加幸福
+有更多的钱-发展工业经济-生产大量的产品-降低产品价格-物质丰富
+- 有更多的钱，人们可以享受更多的物质生活和满足精神生活的需要
+
+Recent years, many peopele suggest that additional economic wealth can not makes residents happier when a country is already rich. In my view, I disagree this statement.
+
+The quality construction of infrastructure could makes people happier, which might need more money. Due to construction of city facilites such as market, station and airport, people's  life might more convenient and comfortable. So people who lives there will be more happy.
+As a result, for a country, making people happier usually need more economic wealth, though the country is already rich now.
+
+To meet people's high level physical life and mental life usually need more money to support.
+
+Rich material life could make people more happy. With the economy developing rapidly, the government could earn more mony,  which lead the fact that authorty could develop local industry such as chemical factories and so on. As the result, the price of production might lower and the quality of production might higher. People could enjoy high quality production and life level. Therefore, people could more happy.
 
 

@@ -124,6 +124,7 @@ The adult were 200m more than the children
     This figure sharply rise by 24,000 from 2007 to 2009.
 5. there were 100 people in total 总共有100人
 6. the total of people who taking part in this activity this 100.
+7. 建议多写计算后的数据，比如，增加到了XXX、XX是XX的三倍、XX比XX多XXX
 
 
 
@@ -131,10 +132,16 @@ In 2001, the number of  people taking part in  a willife survey in total was the
 
 In 2001, the number of adult involved in wildlife survey was the smallest with 36,000. There was a dramatic rise in the number of adult taking part in this activity from 36,000 in 2001 to 212,000 in 2003. This figure slowly incline from 212,000 in 2003 to 332,000 in 2005. However, there was a drop in this figure from 332,000 in 2005 to 270,000 in 2009.
 
-In 2001, the number of children taking part in wildlife survey wasthe smallest at 12,000.  This figure in 2003 was three times larger than those in 2001. But a drop could be seen from 36,000 in 2003 to 31,000 in 2007.  This figure sharply rise from 31,000 in 2007 to 270,000 in 2009.
+In 2001, the number of children taking part in wildlife survey was the smallest at 12,000.  This figure in 2003 was three times larger than those in 2001. But a drop could be seen from 36,000 in 2003 to 31,000 in 2007.  This figure sharply rise from 31,000 in 2007 to 270,000 in 2009.
 
 
+![范文图片](./resource/15.jpg)
 
+The charts indicate how the percentage of teenagers who were cigarette smokers changes in a European country from 1995 to 2005.
+
+In 1994, the percentage of males smoker in their 14s was the smallest, which was about 16%. This figure sharply raised by 10% from 1994 to 2005. Similarly, the percentage of males smoker in their 15-year-old increased from about 21% in 1994 to 27% approximately in 2005. For male smoker in their 16-year-old, this figure was the biggest among the three group in this decade. In 1995, this figure was the largest  with 27%. There was a dramatic rise in the percentage of males smoker in their 16s from 27% in 1994 to 35% in 2005. And the percentage of males smoker in their 16s took up 7% more than both those in their 14s and 15s.（想表达：在青少年16岁时抽烟的占比是在这些人在他们14和15岁时多了7%）
+
+In 1994, the percentage of females smoker in their 14s was the smallest at about 12%. An increase could saw in this figure from 12% in 1994 to 16% in 2005. In 1994, females smokers in their 15s occupied about 16%. And after 10 year later（十年以后不知道有没有好的表达）, this figure increased from 16% in 1994 to 25% in 2005. Meanwhile, for females smoker in their 16-yeas-old, there was a rise in this figure from 21% in 1994 to 26% in 2005. And the figure in 1994 was twice larger than smoker in their 14s in 1994.
 
 ---
 
