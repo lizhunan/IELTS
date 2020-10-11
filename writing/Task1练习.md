@@ -143,6 +143,11 @@ In 1994, the percentage of males smoker in their 14s was the smallest, which was
 
 In 1994, the percentage of females smoker in their 14s was the smallest at about 12%. An increase could saw in this figure from 12% in 1994 to 16% in 2005. In 1994, females smokers in their 15s occupied about 16%. And after 10 year later（十年以后不知道有没有好的表达）, this figure increased from 16% in 1994 to 25% in 2005. Meanwhile, for females smoker in their 16-yeas-old, there was a rise in this figure from 21% in 1994 to 26% in 2005. And the figure in 1994 was twice larger than smoker in their 14s in 1994.
 
+## 地图题
+
+![范文图片](./resource/18.jpg)
+
+
 ---
 
 

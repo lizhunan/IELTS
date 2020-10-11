@@ -4,88 +4,95 @@
 
 ---
 
-Well,I am study in Shandong jiaotong university.
-I am a year 4 university student now and my major is computer science.
+## Names 9.8
 
-To begin with , our university has strong academic atomsphere. 
-Besides , there are many well-know prof. 
-Importantly, to graduate from there,we may have a good career prospect.
+### Who gave you your name? 
 
+My father give me this name.
+My name means bamboo.
+He like plants very much and we belive that plants could bring me good luck in chinese culture.
+Besides, my parents hope me a strong and smart person.
 
+### What kinds of names are popular in China? 
 
-My major is computer science.
-It's a popular major.
-and I belive that this major has a good career prospect.
+There are many names which are popular in China.
+One example is Li Ming, which has the meaning of light or intelligence and is easy to remember.
+Actually I have know more than 10 people whose name is Li Ming.
 
-To begin with, it has a good career prospect.
-Besides, I am interested in this major and have a passion for it.
-What's particular important for me is that it always comes naturally to my mind.
+### Are there many Chinese people who have the same surname as you do? 
 
----
+Yes, there are many people's name like mine.
+In my class, there are 50 out of 60 students have the same surname as I do.
 
-## study 9.8
+### Is there any tradition about naming babies? 
 
-### 5. Why did you choose to study that subject/those subjects? 
+Yes, there are many traditional naming babies.
+We always named by a old generation.
+Because we belive that age is a symbol of wisdom.
+
+## Studies & study time 9.8
+
+### Why did you choose to study that subject/those subjects? 
 
 I choose computer science as my major.
 Because I am interested in this major.
 Besides（发音） computer science has a career prospect.
 In addition（发音）, this major is easy for me.
 
-### 7. Is it very interesting? 
+### Is it very interesting? 
 
 Yes, it's very interesting. 
-I can develop some softare,such as game apps,time management apps or office work apps（对software举例）, which can make my life more convenient.
+I can develop some software,such as game apps,time management apps or office work apps（对software举例）, which can make my life more convenient.
 
-### 9. Do you like studying? How much time do you spend on studying every week?
+### Do you like studying? How much time do you spend on studying every week?
 
 Yes, I like study very much.
 And I spend about 40 hours on study everyweek.
 From Monday to Friday, I always study specialized course（专业课）in the evening.
 And I usually study English at weekend.
 
-### 11. Do you like to study in the mornings or in the afternoons? 
+### Do you like to study in the mornings or in the afternoons? 
 
 Yes, I like study in afternoon. 
 Because in afternoon my mind is ~~more clear~~ clearer（使用比较级，发音）, which make me sovle problems efficiently.
 
-### 12. Do you prefer to study alone or with a group? 
+### Do you prefer to study alone or with a group? 
 
 I prefer study with my classmate. 
 Because my classmate could give me some instruction.
 Besides, they can inspire me when I am frustrated（沮丧）.
 Importantly, we can sovle the problems more efficiently.
 
-## living 9.9
+## Accommodation & living area 9.9
 
-### 3. How long have you lived in this area? What are the surroundings like? 
+### How long have you lived in this area? What are the surroundings like? 
 
 I have lived in my flat for two years.**（live in a flat, live there/here）**
 My flat sorroundings are very lively and there are a number of shops.
 So, I can buy fresh fruit（发音） and meat everyday.
 Besides, there is a well-know hot-pot restaurant, and I can go to the restaurant every weekend with my friends.
 
-### 5. Do you know any famous people in your living area? 
+### Do you know any famous people in your living area? 
 
 Yes, there are many people living there. 
 Because my flat ~~nearby~~ **is near** a university.
 And a famous professor named John Lee who is computer scientist live ~~in~~ there.
-There is a big park near my neigborhood, which is really quite. I have met John Lee there for several times when jogging there.
+There is a big park near my neigborhood, which is really quite. I have met John Lee there for several times when I go jogging.
 
-### 10. What part of your home do you like most? 
+### What part of your home do you like most? 
 
 I like my bedroom most.
 Because I am very tired everyday, when I finish study and work.
 I can ~~break~~ **take a break（休息）** and have a sound sleep in my bedroom. 
 
-### 13. Do you prefer living in a house or a flat?  
+### Do you prefer living in a house or a flat?  
 
 I prefer living a flat.
 Because there are a number of shops in the neighborbood, which makes my life convenient.
 Besides, the price of flat is cheaper.
 I like living in a flat very much.
 
-## hometown 9.14
+## Hometown & city 9.14
 
 ### Which city are you from? 
 
@@ -100,15 +107,18 @@ Besides, the population in my hometown is much smaller than that of Jinan
 
 ### How long have you been living there? 
 
-I have lived there for more than 20 years since I was born. For the first 18 years in my life, I had never left my hometown. Then I went to another city to attend univercity. Now, I speed less time in my hometown than before because I work in Jinan.
+I have lived there for more than 20 years since I was born. 
+For the first 18 years in my life, I had never left my hometown. 
+Then I went to another city to attend univercity. 
+Now, I speed less time in my hometown than before because I work in Jinan.
 
 ### Do you like your hometown?
 
 Yes, I like my hometown very much.
 There are many tasty snack in my hometown, such as braised meat, seafood and braised chicken.
-In recent years, many harbors are developing in some seaside towns, which improve fishing industry industry in my hometown.
+In recent years, many harbors are developing in some seaside towns, which improve fishing industry in my hometown.
 
-## hometown 9.15
+## Hometown & city 9.15
 
 ### What do you like most about your hometown?
 
@@ -144,7 +154,7 @@ I belive that young people can find good jobs in our city.
 - Emerging industry 新兴产业
 
 Well, I prefer the first-tier city. 
-There cities are attractive to young people in that there are emerging industries and high-piad jobs. 
+These cities are attractive to young people in that there are emerging industries and high-piad jobs. 
 We can make more money and achieve our career and life goals.
 
 ### Do you often meet new people? 
@@ -171,7 +181,7 @@ To some extent, I agree. I will give you one example. If a person often wears fa
 
 ### Do you care about other’s comments on your appearance?
 
-Not really. In my view, appearance is not important for me. I belive many qualities are more important than appearance, such as working ability, learning ability and moral vitrues for a person. Appearance is only a minor factor for a man.
+Not really. In my view, appearance is not important for me. I belive many qualities are more important than appearance, such as working ability, learning ability and moral virtues for a person. Appearance is only a minor factor for a man.
 
 ## Famous people 9.21
 

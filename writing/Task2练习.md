@@ -61,7 +61,7 @@ It is admitted that waching Tv can bring many problmes. For example, wathing Tv 
 
 There are many advantages for younger people to take on government positions. To begin with, young man are usually more energietic and createtive than elder, which means younger people have more passion for their career. As a result, government operation efficiency could be improved. In addition, younger people are good at study and more enjoy leaning especially new thing, which lead to the fact that reform could be fast and smooth.
 
-![范文图片](./resource/000.jpg)
+![范文图片](./resource/17.jpg)
 
 Recently, with the economy developing rapidly, more and more people driver car 
 
@@ -151,7 +151,7 @@ Two measures can be taken to sovle this problems. To begin with, Scientists and 
 
 ## Money
 
-![范文图片](./resource/13.jpg)
+![范文图片](./resource/16.jpg)
 
 - 增加额外的财富，建设更多的文化娱乐设施，丰富人们的生活，人们会更加幸福
 - 增加额外的财富，使得社会的各个方面更加完善，人们安居乐业，人们会更加幸福
