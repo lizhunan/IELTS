@@ -147,6 +147,15 @@ In 1994, the percentage of females smoker in their 14s was the smallest at about
 
 ![范文图片](./resource/18.jpg)
 
+The two maps show a comparison between buldings' location of Conference Center and those buildings' plan in the future. 
+
+From west to the east, there are two Meeting Rooms, which are located in the west. But those rooms will be divided into three rooms in the future. At present, a building which is located in south are divided into a Toilet, a Reception and Cafe. But in the future, the Cafe will be replaced with a Fitting Room.
+
+For the Hall, the building is located in center of the map and it is opposite to Meeting Room. In the future, the hall will be divided into a Cafe and the Hall. Besides, a kichen will be in this Cafe.（如何表达，hall被分为两个部分，分别是...和...，The Hall will be divied into Cafe and Hall respectively 是这样吗）
+
+There are a Gardens and a Car Park to the east of the hall（在...的东边不太会表达）. In the future, the Gardens will be more bigger（变大是这样表达吗？）. Meanwhile, the Car Park will be more smaller. There is a path, which is located in the west of Car Park and connect the parking to the Road that is located in south of parking. In the futher, the path will be move to the south of Car Park.
+
+Overall, the function of this center will be more clearness.
 
 ---
 

@@ -11,7 +11,7 @@
 The person I would like to talk about my classmate. His name is ZhangSan.
 I first met him on the first day of our university, and we lived in the same dormitory. 
 I usually go to the gym with him in our campus. 
-He always help me stay in shape and lose my weight through give me some intruction about fitness.
+He always help me stay in shape and lose my weight through give me some instruction about fitness.
 In addation, he is a energetic person. 
 When I feel tired and sad, He could inspire me and encourage me to keep going.
 Besides, we often hang out together at weekend. Such as playing football, shopping and wolk around my campus. 
@@ -24,9 +24,9 @@ I am happy to kown him and to stay with him.
 Mike is a helpful and responsible person. 
 Actullay, he is always willing to help people around him, including me. 
 As the caption of our team, he often makes training plans for us aiming to improve our training effect.
-Regarding why I think he is a good leader.
+As for the reason why I think he is a good leader.
 Firstly, Mike's communicating skills are impressive. He can communicate with almost every person, even with strangers. He usually hire ground to preper football match.
-Besides, Mike often organizes some activities such as football match with other team and teaching other student playing football. 
+Besides, Mike often organizes some activities such as football match with other team and teaching other students playing football. 
 So, these two qualities are vital to a good leader.
 
 ## 9.25 

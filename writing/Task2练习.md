@@ -63,7 +63,13 @@ There are many advantages for younger people to take on government positions. To
 
 ![范文图片](./resource/17.jpg)
 
-Recently, with the economy developing rapidly, more and more people driver car 
+Recently, more and more people select driving car when they commute and travel. However, unlimited use of cars could cause many problems. The reason of problems will be discussed. And I agree with this measure.
+
+There are mainly two problmes that caused by use of cars. Firstly, the most important problem is traffic jam. The roads might be more crowed due to more people driving on the road, which lead to the fact that people must spend more time on commute and travel. Scondly, environment pollution is a problem as well. The car could emit fumes, which lead to the fact that air might be pollute and the quantity of CO2 might be increase. As the result, it has a bad effect on environment. 
+
+Government could discourage people to use car as the way to reduce the problems. To begin with, government could develp public transport such as bus, subway and shared bicycle. People to commute by bus or subway could reduce congestion. Secondly, scientists and engineers could devlelping clean energy to reduce air pollution such as solar energy and wind power. Reducing use of fuel could relieve effect of environment pollution. 
+
+To sum up, discouraging people to use car could sovle a variety of problems.
 
 ## Tourism
 
@@ -158,13 +164,13 @@ Two measures can be taken to sovle this problems. To begin with, Scientists and 
 有更多的钱-发展工业经济-生产大量的产品-降低产品价格-物质丰富
 - 有更多的钱，人们可以享受更多的物质生活和满足精神生活的需要
 
-Recent years, many peopele suggest that additional economic wealth can not makes residents happier when a country is already rich. In my view, I disagree this statement.
+Recent years, many people suggest that additional economic wealth can not makes residents happier when a country is already rich. In my view, I disagree with this statement.
 
-The quality construction of infrastructure could makes people happier, which might need more money. Due to construction of city facilites such as market, station and airport, people's  life might more convenient and comfortable. So people who lives there will be more happy.
+The quality construction of infrastructure could makes people happier, which might need more money. Due to construction of city facilites such as market, station and airport, people's  life might be more convenient and comfortable. So people who lives there will be more happy.
 As a result, for a country, making people happier usually need more economic wealth, though the country is already rich now.
 
 To meet people's high level physical life and mental life usually need more money to support.
 
-Rich material life could make people more happy. With the economy developing rapidly, the government could earn more mony,  which lead the fact that authorty could develop local industry such as chemical factories and so on. As the result, the price of production might lower and the quality of production might higher. People could enjoy high quality production and life level. Therefore, people could more happy.
+Rich material life could make people more happy. With the economy developing rapidly, the government could earn more mony,  which lead to the fact that authorty could develop local industry such as chemical factories and so on. As the result, the price of production might lower and the quality of production might higher. People could enjoy high quality production and life level. Therefore, people could more happy.
 
 

@@ -247,7 +247,9 @@ For me, steamed fish with rice is the most tasty food.
 
 ### Where can you see fish
 
-Well, the first place comes into my mind is aquarium where people can see various fish. Besides, as I mentioned just now, I like eating fish, so I go to the market frequently and see different fish there. I’m a fan of fishing, and when I go fishing by the lake, I can see fish swimming about.
+Well, the first place comes into my mind is aquarium where people can see various fish. 
+Besides, as I mentioned just now, I like eating fish, so I go to the market frequently and see different fish there. 
+In addtional, I’m a fan of fishing, and when I go fishing by the lake, I can see fish swimming about.
 
 ## Movie 9.23
 
@@ -256,7 +258,7 @@ Well, the first place comes into my mind is aquarium where people can see variou
 Well, quite a long time ago. 
 It was 2018 when I was a third-year student in university that I watched a movie in cinema with my girlfriend.
 It was an unforgettable time.
-The movie we watched was Resident Evilwhich which was thrilling and well-liked worldwide.
+The movie we watched was Resident Evil which was thrilling and well-liked worldwide.
 
 ### Do you like watching movies? 
 
@@ -336,7 +338,7 @@ Sepcifically, I go to bed at 10 pm and get up at 6 am the next morning.
 
 ### Is it necessary to take a nap every day?
 
-Yes. I always  have a nap at noon for one hour. 
+Yes. I always have a nap at noon for one hour. 
 A good nap could energize me in the afternoon.
 
 ### Do old people sleep a lot?
@@ -346,7 +348,8 @@ The fact is that old people get tired frequently and they need to take nap more 
 
 ### Can you sleep well if you are in a noisy environment?
 
-No. I prefer quiet and peaceful surroudings. As a matter of fact, I can fall asleep quickly in a peaceful environment.
+No. I prefer quiet and peaceful surroudings. 
+As a matter of fact, I can fall asleep quickly in a peaceful environment.
 
 ## Tidy 10.3
 
@@ -374,12 +377,12 @@ Every week, we clean our office together, taking out the trash and washing the f
 Yes, now  I'm in my 20s and I have many chances to improve myself and change my life.
 For example, now I'm intending to study abroad and achive my dreams.
 
-### What age is the best time for people to enjoy lift?
+### What age is the best time for people to enjoy life?
 
 In one's life, there are many precious moments for us to enjoy. 
 For example, in one's childhood, they can have a lot fun playing with friends.
 In teenage years, we study hard at school and achieve our goals,
-For elderly people, they can enjoy their retried life.
+For elderly people, they can enjoy their retired life.
 
 ### What do you think is the best time to learn driving?
 
