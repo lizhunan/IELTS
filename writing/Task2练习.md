@@ -71,6 +71,10 @@ Government could discourage people to use car as the way to reduce the problems.
 
 To sum up, discouraging people to use car could sovle a variety of problems.
 
+1. might be 
+2. be caused by 
+3. 
+
 ## Tourism
 
 ![范文图片](./resource/8.jpg)

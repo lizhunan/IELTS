@@ -157,6 +157,19 @@ There are a Gardens and a Car Park to the east of the hall（在...的东边不�
 
 Overall, the function of this center will be more clearness.
 
+1. 第二段描述，先描述present，先描述第一个图，注意时态
+2. 第三段对比，写差别，第二幅图与第一幅图要对比
+3. 地图没有坐标则分左右上下，有坐标分东西南北
+
+There are two meeting rooms on the far lift. They are of the same size. On the right, there is a hall, which is as big as two meeting rooms. At the bottom, there there is a building which is divided into three parts. And they are toilet, reception and cafe from lift to right. In the top right-hand corner, there is a small garden near which lies a large car park with the gate on the lift. 
+
+In the future, there are many changes. To be specific, on the lift, the two meeting rooms will be turned into three small rooms. On the ritght of them, the hall will be halfed and  the rest space will be occupied by a cafe and a small kitchen. At the bottom, there is no change in the layout of the building, but the cafe will be replaced by fitting room. In the top right-hand corner, the small garden will be enlarged while the space of car park will be reduced.  Another change about car park is that there will be two gates directly toward the road.
+
+1. on the far lift
+2. **of + 名词 = 形容词性**
+3. take/get/turn+介词，要分析介词
+4. will be 将会... 
+
 ---
 
 
