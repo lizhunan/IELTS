@@ -41,9 +41,9 @@ In my opinion, everyone can become outstanding
 
 ## Education
 
-![范文图片](./resource/9.jpg)
+### 1.
 
-### 批改后
+![范文图片](./resource/9.jpg)
 
 Wathing Tv could helps children broadern horizon, gain knowledge, and get hold of the social develompent. There are a kind of programmes in a verity of channels. For example, chhildren can have access to documentary about universe, countries and animals, which children can not  learn from lessons at school.
 
@@ -57,25 +57,51 @@ It is admitted that waching Tv can bring many problmes. For example, wathing Tv 
 * It is easy to do. 做sth很容易
 * help sb do / to do 帮sb做sth
 
+### 2. 
+
+![范文图片](./resource/22.jpg)
+
 ## Government and Society 
 
 There are many advantages for younger people to take on government positions. To begin with, young man are usually more energietic and createtive than elder, which means younger people have more passion for their career. As a result, government operation efficiency could be improved. In addition, younger people are good at study and more enjoy leaning especially new thing, which lead to the fact that reform could be fast and smooth.
+
+### 1.
 
 ![范文图片](./resource/17.jpg)
 
 Recently, more and more people select driving car when they commute and travel. However, unlimited use of cars could cause many problems. The reason of problems will be discussed. And I agree with this measure.
 
-There are mainly two problmes that caused by use of cars. Firstly, the most important problem is traffic jam. The roads might be more crowed due to more people driving on the road, which lead to the fact that people must spend more time on commute and travel. Scondly, environment pollution is a problem as well. The car could emit fumes, which lead to the fact that air might be pollute and the quantity of CO2 might be increase. As the result, it has a bad effect on environment. 
+**There are mainly two problmes that caused by use of cars^1^.** Firstly, the most important problem is traffic jam. The roads might be more crowed due to more people driving on the road, which lead to the fact that people must spend more time on commute and travel. Secondly, environment pollution is a problem as well. The car could emit fumes, which lead to the fact that air might be pollute and the quantity of CO2 might be increase. As the result, it has a bad effect on environment. 
 
 Government could discourage people to use car as the way to reduce the problems. To begin with, government could develp public transport such as bus, subway and shared bicycle. People to commute by bus or subway could reduce congestion. Secondly, scientists and engineers could devlelping clean energy to reduce air pollution such as solar energy and wind power. Reducing use of fuel could relieve effect of environment pollution. 
 
 To sum up, discouraging people to use car could sovle a variety of problems.
 
-1. might be 
-2. be caused by 
-3. 
+1. be caused by, There are mainly two problmes that are caused by use of cars
+
+### 2.
+
+![范文图片](./resource/21.jpg)
+
+Recently, there is a heat topic about whether children have much freedom. Some people think that children have much freedom, while others think that children have litte freedom. **~~In my View,~~^1^** I agree with the second one.
+
+In the attribution of free time, children are not able to **decide^2^ how to use it.** Nowadays, children have more and more free time because of **rounded education^3^**. So many children prefer to do exercise or play games such as playing football, playing electronic games. However, their parents arrage some activities for them such as learning English and math. As the result, most of their spare time spend in a kind of training course.
+
+For the selection of university, parents always decide to select their major instead of children. Because parents think that some major have career prospect, and children will have a good occupation in the future. Although, children prefer to select their major depend with their interest. So, children cannot decide freely their life.
+
+**It is admitted that some minor things can be decided by children.^4^** For example, children could decide how to use their pocket money. Most of parents give money to their children weekly and hope children spend pocket money on lunch and learning. But many children might spend money on refreshment and playing games.
+
+To sum up. Children have freedom in some minor things while they are always unable to make determination in **decisive^5^** things.
+
+1. 不要重复
+2. decide是及物动词，后面加名词或者从句
+3. rounded education 素质教育 
+4. 让步，最后一段如果没有论证，可以用让步，但是反方观点一定要比正方弱
+5. decisive 决定性的
 
 ## Tourism
+
+### 1.
 
 ![范文图片](./resource/8.jpg)
 
@@ -103,6 +129,8 @@ To sum up, there are many advantages **~~when~~ for^4^** students travelling or 
 
 ## Gender 
 
+### 1.
+
 ![范文图片](./resource/13.jpg)
 
 Recently, An increaseing number of women have full time jobs, which means that  they would have less time to do  household chores. So, many people suggest that both women and men should share the housework task equally. As far as  I am concerned, I disagree this statement.
@@ -112,6 +140,8 @@ The volume of housework denpends on familiy member's contribution to their famil
 Household chores should be divided accoding to  people's work time. Some work longer while others have flexible work time, which means that it is impossible to  divide their housework time equally . There are two different reasons. Firstly, people who spend more time in their jobs such as woker in factory always have less time in their house, so, they could not undertake more hoursehold choress. Secondly, what many people are good at is different. To be specific, most men suitable for heavy work and women are good at housework that needs care and patience.
 
 ## Sport and Leisure
+
+### 1.
 
 ![范文图片](./resource/12.jpg)
 
@@ -153,6 +183,8 @@ Recently, more and more people enjoy a variety of sport, such as football, swimm
     - 发展科技，在少的土地上高产，比如，立体农业
     - 保护土地，环境保护
 
+### 2.
+
 Recently, the sort of food is more rich in our society. People' demand for food is increasing in the world. The reason of increase  will be discussed and measures will be given.
 
 There are two factors for the rise in the need food. Firslty, the world population sharply rocket in recent years, which was about 6 billion. More people means more food everyday. Scondly, with the repaid development of technology and economy, people's living  standard is improve greatly. That is say, many people need higher quantily and a wide of food. For example,  people used to have one or two kind of food, but now they can afford more food in one dish so that there much more nutrition in the diet. As a reslut, they have healther body.
@@ -161,6 +193,8 @@ Two measures can be taken to sovle this problems. To begin with, Scientists and 
 
 ## Money
 
+### 1.
+
 ![范文图片](./resource/16.jpg)
 
 - 增加额外的财富，建设更多的文化娱乐设施，丰富人们的生活，人们会更加幸福
@@ -168,13 +202,14 @@ Two measures can be taken to sovle this problems. To begin with, Scientists and 
 有更多的钱-发展工业经济-生产大量的产品-降低产品价格-物质丰富
 - 有更多的钱，人们可以享受更多的物质生活和满足精神生活的需要
 
-Recent years, many people suggest that additional economic wealth can not makes residents happier when a country is already rich. In my view, I disagree with this statement.
+Recent years, many people suggest that additional economic wealth cannot makes residents happier when a country is already rich. In my view, I disagree with this statement.
 
-The quality construction of infrastructure could makes people happier, which might need more money. Due to construction of city facilites such as market, station and airport, people's  life might be more convenient and comfortable. So people who lives there will be more happy.
-As a result, for a country, making people happier usually need more economic wealth, though the country is already rich now.
+The quality construction of infrastructure could makes people happier, which might need more money. Due to construction of city facilites such as market, station and airport, people's  life **might be^1^** more convenient and comfortable. So people who lives there will be more happy. As a result, for a country, making people happier usually need more economic wealth, though the country is already rich now.
 
-To meet people's high level physical life and mental life usually need more money to support.
+**To meet people's high level physical life and mental life usually need more money to support. ^2^**
 
-Rich material life could make people more happy. With the economy developing rapidly, the government could earn more mony,  which lead to the fact that authorty could develop local industry such as chemical factories and so on. As the result, the price of production might lower and the quality of production might higher. People could enjoy high quality production and life level. Therefore, people could more happy.
+Rich material life could make people **more happy^3^**. With the economy developing rapidly, the government could earn more money,  which lead to the fact that authority could develop local industry such as chemical factories and so on. As the result, the price of production might lower and the quality of production might higher. People could enjoy high quality production and life level. Therefore, people could **more happy^3^**.
 
-
+1. more 是系动词，might 后要加 be，might be more convenient
+2. 新增观点。To meet people's high-level life and high-quality education usually need more money to support. Government should invest in education and public health area such as constructing more schools and hospitals, which lead to the fact that the quality of education and medicine in that district might be improved. As the result, people who live in the area will happier. 
+3. happy是个形容词，比较级是happier，前面应该有be动词

@@ -73,3 +73,15 @@ We were disappointed and later we got know the reason why the place is polluted.
 In recent years, there are many industiral districts emerging in Qingzhou. For example, some chemical factories release waste water into the river and emit fumes into the air.
 Local government focuses on economic deveopment rather than environmental protection. 
 I hope that the authorities could stop developing economy at the cost of environment.
+
+## 10.23 
+
+### Foreign country
+
+Well, the country I’d like to talk about is the UK. 
+I first knew the country when I was very young at primary school. At that time, I read a fantasy book—called Harry Potter. 
+For me, that book is literally an encyclopedia of British culture. So you can see books are important source for people to learn about different cultures. 
+Besides, we can also refer to movies and documentaries to know more about the customs. For food culture, I’m interested in gingerbread which is a typical British food. I got to know it from HP. Finally I had a taste of it in college and it was very delicious. 
+When it comes to the difference from Chinese culture, I would like to talk about dragon. In China, dragon means auspiciousness / power and good luck, but in British culture, dragon is an evil creature. 
+As for the reason why I want to know more about the UK, that’s because the book HP inspires my imagination of British culture. 
+Besides, I’m fond of delicious food and I want to try the snacks in the UK.

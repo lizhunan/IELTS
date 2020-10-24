@@ -139,9 +139,14 @@ In 2001, the number of children taking part in wildlife survey was the smallest 
 
 The charts indicate how the percentage of teenagers who were cigarette smokers changes in a European country from 1995 to 2005.
 
-In 1994, the percentage of males smoker in their 14s was the smallest, which was about 16%. This figure sharply raised by 10% from 1994 to 2005. Similarly, the percentage of males smoker in their 15-year-old increased from about 21% in 1994 to 27% approximately in 2005. For male smoker in their 16-year-old, this figure was the biggest among the three group in this decade. In 1995, this figure was the largest  with 27%. There was a dramatic rise in the percentage of males smoker in their 16s from 27% in 1994 to 35% in 2005. And the percentage of males smoker in their 16s took up 7% more than both those in their 14s and 15s.（想表达：在青少年16岁时抽烟的占比是在这些人在他们14和15岁时多了7%）
+In 1994, the percentage of males smoker in their 14s was the smallest, which was about 16%. This figure sharply **raised^1^ by 10%** from 1994 to 2005. Similarly, the percentage of males smoker in their 15-year-old increased from about 21% in 1994 to 27% approximately in 2005. For male smoker in their 16-year-old, this figure was the biggest among the three group in this decade. In 1995, this figure was the largest  with 27%. **There was a dramatic rise in the percentage of males smoker in their 16s from 27% in 1994 to 35% in 2005^2^**. And the percentage of males smoker in their 16s took up 7% more than both those in their 14s and 15s.（想表达：在青少年16岁时抽烟的占比是在这些人在他们14和15岁时多了7%）
 
-In 1994, the percentage of females smoker in their 14s was the smallest at about 12%. An increase could saw in this figure from 12% in 1994 to 16% in 2005. In 1994, females smokers in their 15s occupied about 16%. And after 10 year later（十年以后不知道有没有好的表达）, this figure increased from 16% in 1994 to 25% in 2005. Meanwhile, for females smoker in their 16-yeas-old, there was a rise in this figure from 21% in 1994 to 26% in 2005. And the figure in 1994 was twice larger than smoker in their 14s in 1994.
+**In 1994, the percentage of females smoker in their 14s was the smallest at about 12%. An increase could saw in this figure from 12% in 1994 to 16% in 2005^3^**. In 1994, females smokers in their 15s occupied about 16%. And after 10 year later（十年以后不知道有没有好的表达）, this figure increased from 16% in 1994 to 25% in 2005. Meanwhile, for females smoker in their 16-yeas-old, there was a rise in this figure from 21% in 1994 to 26% in 2005. And the figure in 1994 was twice larger than smoker in their 14s in 1994.
+
+1. raised 这是个及物动词，一般增长用rise by, This figure sharply rise by 10% from 1994 to 2005
+2. 16岁先增长后下降, There was a dramatic rise in the percentage of males smoker in their 16s from 27% in 1994 to over 40% in 2000. But this figure drop from about 42% in 2000 to 35% in 2005 
+3. 2000年到2005基本没变，这个趋势要写出来, An increase could saw（be seen） in this figure from 12% in 1994 to 16% in 2000. However, this figure remain stable at 16% for the next 5 years.
+4. 对比一定要体现出来，尤其是男女对比
 
 ## 地图题
 
@@ -161,14 +166,24 @@ Overall, the function of this center will be more clearness.
 2. 第三段对比，写差别，第二幅图与第一幅图要对比
 3. 地图没有坐标则分左右上下，有坐标分东西南北
 
-There are two meeting rooms on the far lift. They are of the same size. On the right, there is a hall, which is as big as two meeting rooms. At the bottom, there there is a building which is divided into three parts. And they are toilet, reception and cafe from lift to right. In the top right-hand corner, there is a small garden near which lies a large car park with the gate on the lift. 
+There are two meeting rooms on the far left. They are of the same size. On the right, there is a hall, which is as big as two meeting rooms. At the bottom, there there is a building which is divided into three parts. And they are toilet, reception and cafe from left to right. In the top right-hand corner, there is a small garden near which lies a large car park with the gate on the left. 
 
-In the future, there are many changes. To be specific, on the lift, the two meeting rooms will be turned into three small rooms. On the ritght of them, the hall will be halfed and  the rest space will be occupied by a cafe and a small kitchen. At the bottom, there is no change in the layout of the building, but the cafe will be replaced by fitting room. In the top right-hand corner, the small garden will be enlarged while the space of car park will be reduced.  Another change about car park is that there will be two gates directly toward the road.
+In the future, there are many changes. To be specific, on the left, the two meeting rooms will be turned into three small rooms. On the ritght of them, the hall will be halfed and the rest space will be occupied by a cafe and a small kitchen. At the bottom, there is no change in the layout of the building, but the cafe will be replaced by fitting room. In the top right-hand corner, the small garden will be enlarged while the space of car park will be reduced.  Another change about car park is that there will be two gates directly toward the road.
 
-1. on the far lift
+1. on the far left
 2. **of + 名词 = 形容词性**
 3. take/get/turn+介词，要分析介词
 4. will be 将会... 
+
+![范文图片](./resource/19.jpg)
+
+The two maps show a comparison between plan A and plan B in training session room.
+
+In the plan A, there is a whiteboard in front of entrance. On the left of whiteboard, there is a president's chair. On the center of the room, there are three tables, which are of the same size. For this three tables, the first table is located in left of the room, and there are three chairs on the left of this table. And the second is situated in the right of the room, and there are three chairs on the right of this table as well. The third table is located in center of the room, and there are four chairs in front of this table. There is a morning tea on the bottom of the map.
+
+Compare with the plan A, plan B have many changes. There is a morning tea in the top left-hand corner rather than bottom. There is no change mostly in location of whiteboard to compare with plan A. On the center of the room, there is a presicent's chair. On the left of the room, a table is there with three chairs on the right and three chairs on the left. On the right of the room, there is a table, and there are three chairs on the right of the table and three chairs on the left.（如何表达，左右两边分别由三个椅子）At the bottom, there is a table, and there are three chairs in front of the table and three chairs at the back of this table.
+
+Overall, except the layout of this room, plan B could accommodate people, which was about 19. But plan A just accommodate 10 person.
 
 ---
 

@@ -400,4 +400,116 @@ No, we should get along with people of different ages in different ways.
 For example, we can play jokes with kids, but it's improper to play tricks on old people.
 Because in Chinese culture it is disrespectful.
 
+## Public transportation 10.19
+
+###	What is the most popular means of transportation in your hometown?
+
+Bus is the most important transportation in my hometown which is a small city. 
+We don’t have subway or train, the only choice is bus in my city when commuting or traveling. 
+
+###	Is driving to work popular in your country?
+
+Sure. Driving is very popular in my country. 
+In fact, almost every family has a car in China. 
+When people travel to tourist attractions or commute to work, we often choose to drive because our cities and country are enormous and the distance between people’s home and their work place is long.
+
+###	Do you prefer public transportation or private transportation?
+
+I prefer public transportation because in my country public transport is much cheaper than private car. 
+For example, the bus fare and train ticket are fairly cheap. 
+What’s more, we can get discounted flight tickets very often.
+
+###	When was the last time you taking a public transport?
+
+Well, actually, I came here by bus today. 
+The bus system is developed in this city and it took me about 10 minutes to come here.
+
+###	Will you take public transport more often?
+
+Yes, I think so. 
+With the construction of subway system, the public transportation will be more economical and time-saving.
+
+###	Are there any traffic problems in your area? 
+
+Yes, we have some traffic problems, such as traffic jams and air pollution. 
+It’s mainly because more and more people buy cars and they rely too much on private cars. Meanwhile, a large number of cars emit much traffic fumes.
+
+###	How should the transport in your town or area be improved?
+
+Many measures can be taken to cope with this problem. 
+First, the government can limit the number of cars each family can buy. 
+Second, we can develop cars powered by clean energy, such as solar cars and electricity cars.
+
+## Shopping 10.20
+
+###	Do you like shopping/buying things?
+
+Sure, I like shopping very much, no matter in a street market or in a mall. 
+Actually, I went shopping with my friend last weekend. We bought some food and clothes. 
+Besides, I shop online more often in recent years. The products in online shops are much cheaper than in malls.
+
+###	Do you compare the prices when you buy something?
+
+Sure, I usually compare the price when purchasing the goods. 
+For example, when I buy clothes online, I always check the price with different sellers and choose the cheapest one.
+
+###	Can people bargain with the seller in your country？
+
+It depends. 
+When people buy something in the street market, we often bargain with the vegetables sellers. 
+But in the shopping mall, people seldom bargain with the shop assistant because there is a price tag for every product.
+
+###	Do you have difficulty making choices?
+
+In general, it’s difficult for me, especially when shopping online because there are too many choices. 
+For example, there are different styles and colors of clothes, and I don’t know which one to choose.
+
+###	Do you care much about the price of goods? Is expensive goods better than the cheap one?
+
+Yes, I believe so. 
+Take myself as an example, last year, I bought a cheap T-shirt from the online shop, and three weeks later, it was worn out. Since then, I just choose expensive clothes which are durable to wear for at least one year. 
+
+## Discussion and Topics 10.21
+
+###	Do you like to tell jokes with your friends? Why?/why not?
+
+Sure, I often tell jokes with my friends because I’m a humorous person, and I like to make my friends laugh.
+
+###	What topics do you usually talk with your friends?
+
+It depends. 
+When being with my colleagues, we usually talk about something specialized in computer science which is related with our work. 
+When it comes to time with friends, we often talk about delicious food and latest movies which are our favorite.
+
+###	What are the differences in topics that you discuss with your friends now and in the past? / Did you discuss or talk with others in a different way when you were a child?
+
+Well, the topics change a lot with time/as time goes by. 
+Back in my childhood, I used to talk about food, carton and games with my friends. 
+Now in college, I often talk about specialized knowledge, sports and travels with my friends.
+
+###	Do you change your opinions frequently (when discussing with others)?
+
+No, I don’t. 
+In fact, I’m a determined person. 
+For example, after deciding to take the IELTS test, I have devoted to English learning and never give up my intention.
+
+###	Do you prefer to be a talker or a listener?
+
+Well, I prefer to be a talker because I’m kind of a resourceful person. 
+For example, my friends often ask me for advice about college life, and it’s a pleasure for me to give them advice about how to improve their relationship with classmates.
+
+## Parties 10.22
+
+###	Have you ever held a birthday party? How did you plan the party?
+
+Yes, I hold birthday party every year. 
+My friends and classmates often come to celebrate the day with me, and bring me many gifts. 
+The celebration gives me a chance to spend time and have a meal with my friends.
+
+###	Have you ever been to a party thrown by a famous person?
+
+No, never. 
+The fact is that most of my friends are ordinary people and I don’t have a chance to join in a famous person’s party. 
+But if there were a chance, I’d like to go and check whether it’s interesting.
+
 --- 
