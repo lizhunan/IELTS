@@ -179,11 +179,43 @@ In the future, there are many changes. To be specific, on the left, the two meet
 
 The two maps show a comparison between plan A and plan B in training session room.
 
-In the plan A, there is a whiteboard in front of entrance. On the left of whiteboard, there is a president's chair. On the center of the room, there are three tables, which are of the same size. For this three tables, the first table is located in left of the room, and there are three chairs on the left of this table. And the second is situated in the right of the room, and there are three chairs on the right of this table as well. The third table is located in center of the room, and there are four chairs in front of this table. There is a morning tea on the bottom of the map.
+In the plan A, there is a whiteboard in front of entrance. On the left of whiteboard, there is a president's chair. At the center of the room, there are three tables, which are of the same size. For this three tables, the first table is located in left of the room, and there are three chairs on the left of this table. And the second is situated in the right of the room, and there are three chairs on the right of this table as well. The third table is located in center of the room, and there are four chairs in front of this table. There is a morning tea on the bottom of the map.
 
-Compare with the plan A, plan B have many changes. There is a morning tea in the top left-hand corner rather than bottom. There is no change mostly in location of whiteboard to compare with plan A. On the center of the room, there is a presicent's chair. On the left of the room, a table is there with three chairs on the right and three chairs on the left. On the right of the room, there is a table, and there are three chairs on the right of the table and three chairs on the left.（如何表达，左右两边分别由三个椅子）At the bottom, there is a table, and there are three chairs in front of the table and three chairs at the back of this table.
+Compare with the plan A, plan B have many changes. There is a morning tea in the top left-hand corner rather than bottom. There is no change mostly in location of whiteboard to compare with plan A. On the center of the room, there is a presicents' chair. On the left of the room, a table is there with three chairs on the right and three chairs on the left. On the right of the room, there is a table, and there are three chairs on the right of the table and three chairs on the left.**(there are three chairs respectively on both sides.（如何表达，左右两边分别由三个椅子）^1^)**. At the bottom, there is a table, and there are three chairs in front of the table and three chairs at the back of this table.
 
 Overall, except the layout of this room, plan B could accommodate people, which was about 19. But plan A just accommodate 10 person.
+
+- 最后一段挺好，有了很清晰的对比
+- 中间两段把内容都描述出来了，但是方位表达上重复性太强
+1. there are three chairs respectively on both sides
+
+Plan A layout is designed with the maximum capacity of ten people.**进行房间容量说明**
+**More specifically^1^**, a white board **is located^2^** **not far away from^3^** the entrance, beside which there is a platform with a presidents chair.**描写whiteboard、platform和presidents' chair**
+A table with four chairs **lies opposite^4^** the whiteboard, **flanking/winging by^5^** two tables with three chairs on **each side.^6^** **描写桌子和椅子**
+**Behind the table with four seats^7^** is a morning tea table, which could be used for relaxation. **描写morning tea table**
+Compared with plan A, the layout of plan B is more compact making it possible to accommodate more than 10 people. **比较房间容量**
+Two morning tea tables **are sited in^8^** the top left-hand corner of the training session. **描写morning tea tables在房间中的位置**
+In the middle of the session lies a white board to which a platform and president chair is adjacent. **描述whiteboard位置与platform和presidents' chair的相对位置**
+The platform is surrounded with three tables in three directions, forming a shape of a rectangle. 
+Overall, the layout for Plan A is more spacious while the layout of Plan B is more space effective. **对两个布局的总结**
+
+1. 分别具体说明
+2. 表示具体位置
+3. not far away from 离…不远
+4. lies 可表示位于，例句：The village lies five miles due north of York. lies opposite 位于...的对面
+5. flanking/winging by 在...两翼
+6. 表示在两边
+7. 表示在...背面
+8. be sited in = be located in = be situated in
+9. adjacent 邻近的
+
+## 流程图
+
+![范文图片](./resource/23.jpg)
+
+The graph show how the cocoa beans is produced. Generally speaking, this process involves several main steps. And the process will be given.
+
+The first step is process the cocoa beans which grown in South America and Africa. Firstly, people should pick beans with a ripe red poads from cacao tree. Secondly, people harvest pods and take out the white cocoa beans from red pods. Thirdly, before the second step these cocoa beans exprience fermentation and spread in sun to dry. Then, the second step is transporting cocoa beans to factory. People put beans in large sacks and take beans to factory by train or lorry. The last step is produce liquid chocolate in the factory. In this factory, Beans will be roasted, and will be heated to about 350°. And than, these beans will be removed outer shell and will be crushed. Finally, people will press the beans inner part, meanwhile the liquid chocolate will be produced.
 
 ---
 

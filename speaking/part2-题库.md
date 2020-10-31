@@ -85,3 +85,69 @@ Besides, we can also refer to movies and documentaries to know more about the cu
 When it comes to the difference from Chinese culture, I would like to talk about dragon. In China, dragon means auspiciousness / power and good luck, but in British culture, dragon is an evil creature. 
 As for the reason why I want to know more about the UK, that’s because the book HP inspires my imagination of British culture. 
 Besides, I’m fond of delicious food and I want to try the snacks in the UK.
+
+## 10.27
+
+### City
+
+Describe a city you want to visit again.
+- You should say:
+- Which city it is
+- When you visited last time
+- What you did there
+- And explain why you want to visit it again.
+- 接合青州
+
+I want to visit Qingzhou again, city near my hometown.
+To be honest, I visited this city at least 10 times, because I really like the ancient buildings in this city.
+In this city, there is a tourist site called Ancient City of Song, which is a group of traditional Chinese buildings. The history of the buildings could be traced to 1000 years ago in Song dynasty. 
+Walking into the street, the ancient buildings come into sight. The red walls, blue tiles, flying angles and the wooden door show the charm of the historical place. 
+Importantly, My friend and I sometimes go there to enjoy the busy atmosphere with other tourists. 
+There are many gift shops and refreshments stands selling meal pie, the most famous snack in this city.
+For the reason why I like going there. 
+Firstly, the ancient city gives me a chance to spend time with my best friend and appreciate the beautiful views. 
+Secondly, by visiting these ancient buildings, I can learn much about history.
+
+## 10.28 
+
+### Best/special clothes
+
+Describe an occasion when you wore the best clothes/special clothes.
+- You should say
+- When & Where it was
+- What you wore
+- What it looked like
+- And explain why you wore it.
+
+In the third year of my university, I joined in a team, a computer programming competition team. 
+I took part in a national competition on behalf of Shandong province. Our team won the first place in the game. We were invited to join the award ceremony. 
+We were very excited, though we had participated in many competitions and won the prizes on behalf of our hometown, because that competition had the largest scale and it was really challenging to win. 
+That day, all the members in our team wore a white T-shirt. The design was simple with only the logo of our team on the chest. The logo was a cute robot in the color of green. 
+The robot is a symbol of high technology and green stands for energy. 
+Although the T-shirt was not expensive, it symbolized our identity as the team member and when we wore it, we had a sense of pride. 
+
+## 10.29
+
+### Enjoyable dinner
+
+Describe a dinner (with your friends) that you really enjoyed.
+- You should say
+- When it was
+- What you ate in the dinner
+- Whom you had dinner with
+- And explain why you enjoyed the dinner
+
+We went to a hot pot restaurant to celebrate the victory. We selected a Sichuan hot pot restaurant which was famous for the spicy flavor. We ordered some mutton, beef and some vegetables as well as some beer. Everyone was excited and drank a lot. 
+
+## 10.30
+
+### Interesting ride
+
+Describe an enjoyable long car journey.
+- You should say:
+- What you were traveling on
+- Where you were going
+- What happened on the ride
+- And explain why it was enjoyable.
+
+My friend and I took a self-drive tour to Qingzhou last spring. QZ简介。 It was a three-hour trip and we set off at 8 am. When we drove northward, the views became pretty beautiful. There were many rolling hills and clear water. There was even a small waterfall at the foot of a mountain. The most impressive thing during the trip was that we drove uphill when arriving at the famous mountain. When being tired, we stopped by the roads and took some photos of the pretty views. Another thing I have to mention is that we got to know many people we also took a self-drive tour to QZ from different cities. We had a picnic together at noon and took some pictures. I was really happy that day because of friend’s company and the eye-pleasing sceneries. 

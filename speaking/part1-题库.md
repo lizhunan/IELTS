@@ -512,4 +512,92 @@ No, never.
 The fact is that most of my friends are ordinary people and I don’t have a chance to join in a famous person’s party. 
 But if there were a chance, I’d like to go and check whether it’s interesting.
 
+## Happiness 10.26
+
+### What is a good relationship between parents and kids?
+
+I think a good relationship between parents and children is like friendship. 
+They appreciate each other. Children can ask advice from parents for life. 
+For example, I sometimes ask my dad advice for interpersonal relationship with friends and classmates, and my father asks me how to use electronic devices.
+
+### What is happiness for young people?
+
+It depends. 
+For students in university, happiness is to achieve their goals and pursue their dream. 
+When it comes to young workers, their happiness is to make more money and get high status in the society.
+
+### For employees, how can company improve their well-being/happiness?
+
+For the interns who are still in university or have just left the university, the company could provide some training courses to improve their work ability and job satisfaction. This is happiness for them. 
+For middle-aged people, pay rise and promotion are happiness because they need the money to support/feed their family. 
+
+### Which is more important, high salary or sense of well-being?
+
+I think the sense of happiness is more important than earning more money. 
+For example, some people work overtime every day to make more money, which puts their health at risk. I don’t think it’s worthwhile. 
+Happiness and health should always come first.
+
+## Laugh & joke & comedy 10.26
+
+### Are you a person who can make people laugh? 
+
+Yes, I always make my friends laugh because I’m a humorous person and I usually tell jokes to my friends. 
+I want to bring laughter to my friends.
+
+### Do you like watching comedies? Have you ever seen a live comedy?
+
+- comedian 喜剧演员
+- comedy 喜剧
+
+Yes, I like watching comedies because the talented and humorous actors and directors can bring laughter to the audience, and I want to get some jokes from the comedies. 
+
+No, I haven’t seen any live comedy because we don’t have a theatre for live shows/ for people to perform a comedy. 
+But if I have a chance, I want to watch a live comedy.
+
+### When was the last time when you laughed out?
+
+I usually laugh out in the classroom. 
+Actually yesterday, I laughed out in the classroom because my classmate told a joke with me and it was really funny.
+
+### Do you think it’s important for friends to laugh at the same thing?
+
+Yes, it’s important for friends to laugh at the same thing. 
+To laugh at the same thing is an important part of life. 
+When we tell a joke, we can always get the point, and it will double the joy.
+
+## Borrowing 10.27
+
+### Do you often borrow others’ things?
+
+Yes, I often borrow things from my friend. 
+For example, last month, I borrowed a textbook from a roommate for our specialized course because I forgot to take my book.
+
+### What have you ever borrowed?
+
+Sorry, I cannot think of any other things that I have borrowed. 
+I guess I have only borrowed books from friends. 
+Generally speaking, I’m an organized person, and I usually pack everything I need before leaving home.
+
+- 如果不知道怎么回答，或者是如果回答的问题内容少，用以下句式
+
+Sorry, I haven’t thought about the question before. 
+I don’t know much about it, and the only thing I can think of is ...
+is that I seldom borrow somethings from my friends. 
+To be honest, I am an organized person, and I usually pack everyting I need before leaving home.  
+
+### Have you ever borrowed a book from others? Money? Phone?
+
+To be honest, I borrowed my colleague’s money last month because I ran out of money and I needed to borrow some for living expenses.
+
+### Would you mind if others borrow money from you? What about phone?
+
+Yes, of course. 
+I’m afraid that some people would borrow my money and never give it back. 
+Anyway, I’m not rich and I also need money to support my daily life. 
+
+### How do you feel when people don’t return things they borrow from you?
+
+Of course I will feel bad. 
+I lend money to friends in order to help them go through the tough life, but they don’t give the money back, and I will have a feeling of being cheated.
+
 --- 

@@ -4,41 +4,6 @@
 
 ---
 
-## 7-1-1
-
-![范文图片](./resource/5.png)
-
-### 批改前
-
-分论点1：
-人们努力锻炼
-通过后天的学习和训练-熟练掌握-在某一领域获得良好的成绩-变成优秀的运动员或者音乐家
-通过
-分论点2：
-虽然天赋在某些领域可能起到重要作用，但是后天的努力可以弥补
-
-Nowadays, many people aruge that some people are born with certain talents, such as sport, music. However, other think that any child can be taught to become a outstanding sprots person or musican. In my opinion, I think everyone can become good sprots person or musician by receiving education.
-
-In my opinion, everyone can become outstanding 
-
-### 范文
-
->The relative importance of natural talent and training is a frequent topic of discussion when people try to explain different levels of ability in, for example, sport, art or music.
-
->Obviously, education systems are based on the belief that all children can effectively be taught to acquire different skills, including those associated with sport, art or music. So from our own school experience, we can find plenty of evidence to support the view that a child can acquire these skills with continued teaching and guided practice.
-
->However, some people believe that innate talent is what differentiates a person who has been trained to play a sport or an instrument, from those who become good players. In other words, there is more to the skill than a learned technique, and this extra talent cannot be taught, no matter how good the teacher or how frequently a child practices.
-
->I personally think that some people do have talents that are probably inherited via their genes. Such talents can give individuals a facility for certain skills that allow them to excel, while more hard-working students never manage to reach a comparable level. But, as with all questions of nature versus nurture, they are not mutually exclusive. Good musicians or artists and exceptional sports stars have probably succeeded because of both good training and natural talent. Without the natural talent, continuous training would be neither attractive nor productive, and without the training, the child would not learn how to exploit and develop their talent.
-
->In conclusion, I agree that any child can be taught particular skills, but to be really good in areas such as music, art or sport, then some natural talent is required.
-
-- 审题：
-普遍认为一些人生来就有某方面的天分，比如在体育或是音乐方面；而另一些人没有。
-
-- 写作思路：
-本文需要讨论要成为出色的运动员或是音乐家，是天分依靠，还是靠后天的教育和训练才能做到。构思时，考生应该从两方面进行分析和论证，在此基础上得出自己的倾向。最简单的写法是文章分为四段：第一段引出话题，第二、三段分别讨论两个方面的观点和各自的理由，第四段提出自己的观点。更加复杂一点的写法是把自己的观点结合进第二、三段，也就是说，在讨论别人观点的时候就进行有倾向性的评价。    
-
 ## Education
 
 ### 1.
@@ -60,6 +25,23 @@ It is admitted that waching Tv can bring many problmes. For example, wathing Tv 
 ### 2. 
 
 ![范文图片](./resource/22.jpg)
+
+Some people think that art classes should not be a compulsory classes at high school such as painting and drawing, because these subjects are not important compared with other classes. I disagree with this statement.
+
+Art classes is quite important a part of rounded education, and is significant for the rounded development of children as well. Art education could inspire students' creativity and improve their ability of artistic appreciation, which is very useful for their life in the future. As the result, art classes should be required classes in senior education.
+
+Some children in their high school are interested in art, **and <u>plan to</u> devote to art career.^1^** Some children's talent **could ~~be~~ emerge^2^** such as painting, drawing and music, and they want to be a artists in the future. So, school should encourage them to study knowledge about arts instead of other subjects.  For these students, **art classes are ~~more important than~~ other classes,^3^** so art classes should be a compulsory subject at high school.
+
+Art could recover students' mental state when they are very tired because of learning other classes. Recovering mental state is fairly significant for learning different **~~type~~ classes^4^**. For example, **~~people are easy tired to study same subjuct or doing same works for long time,~~^5^** which lead to reduction of efficiency. Appreciating art could relieve tiredness.
+
+To sum up, art classes plays an important role in both personal rounded development and the career prospect of future.
+
+1. 改为and plan to devote to art career. 因为现在学生还没有献身于艺术事业，只是计划。或者是改为将来时and will devote to art career.
+2. 学生的天分显露出来，而不是被显露出来
+3. 应改为art classes are as important as other classes. 表示与其他科目一样重要。因为题目中论述的是are not as important as other subjects. 没说那个科目更重要。
+4. type 是名词，应改为type of classes
+5. and or前后词性应该一致,people are easy tired of studying same subject or doing same works for long time, 
+
 
 ## Government and Society 
 
@@ -98,6 +80,30 @@ To sum up. Children have freedom in some minor things while they are always unab
 3. rounded education 素质教育 
 4. 让步，最后一段如果没有论证，可以用让步，但是反方观点一定要比正方弱
 5. decisive 决定性的
+
+### 3.
+
+![范文图片](./resource/20.jpg)
+
+Nowadays, **<u>with the development of high technology, all kind ofcoomunication tools emerge</u>^1^ ~~more and more people~~ an increasing of people^2^** are using phones and computers instead of **~~face to face to communicate~~ face-to-face communication^3^**. So, some people think that this phenomenon **could <u>lead to the fact that people</u>^4^** lose the ability of communication with other people face to face. I agree with this statement.
+
+Long time using electronic device might bring some bad effects on ability of communication. It need **~~take more time on people to interactive~~^5^ take more time for people to interact**. People communicating online with each other usually have to spend more time in thinking than face-to-face communicating, which leads to the fact that people need more time to prepare their constracture of statement and valcabulary. As the result, their behavir might not be fluquency. Obviously, **~~these people's ability of communication is lost.~~ these people may lose ability of communication^6^**
+
+People using emoji might **~~weak~~ weaken^7^** people's expression of mood, which could bring bad effect on communication ability. Emoji is quite popular on Internet. People always use emoji to express their ideas and mood rather than using verbal. As a result, **~~people could not be better to express their mood on their face.~~ people could not express their mood on their face better.~~^8^**
+
+**It is admitted that^9^** some people **occasionally meet^10^** each othor in some place such as cafe and resturant. And they might have short-time communication. But they still use phones rather than communicating with each other face to face.
+
+1. 如果字数不够可以添加背景句
+2. 越来越多的人，more and more people = an increasing number of people
+3. face to face adj. face-to-face adv
+4. 不能是原句phenomenon could lose the ability.的这个现象可以丧失能力，而是这个现象导致的fact是人们丧失能力，丧失能力的是人们而不是现象。
+5. it take ... on... 在...花费...; it take ... to ... 对于...花费了
+6. 能力不能被动丢掉，而是失去，失去用主动语态
+7. weak adj; weaken v 弱化
+8. 将...做的更好，better放在句子后面
+9. It is admitted that 写让步使用
+10. occasionally 偶尔，occasionally meet 偶尔见面
+
 
 ## Tourism
 
@@ -174,7 +180,7 @@ Recently, more and more people enjoy a variety of sport, such as football, swimm
 8. 独立解决问题的例子不合适
 9. 后面需要再讲理由，结尾段不能一句话。写一个我自己支持的原因
 
-
+### 2.
 
 - 原因
     - 人口急剧增加
@@ -183,9 +189,7 @@ Recently, more and more people enjoy a variety of sport, such as football, swimm
     - 发展科技，在少的土地上高产，比如，立体农业
     - 保护土地，环境保护
 
-### 2.
-
-Recently, the sort of food is more rich in our society. People' demand for food is increasing in the world. The reason of increase  will be discussed and measures will be given.
+Recently, the sort of food is more rich in our society. People' demand for food is increasing in the world. The reason of increase will be discussed and measures will be given.
 
 There are two factors for the rise in the need food. Firslty, the world population sharply rocket in recent years, which was about 6 billion. More people means more food everyday. Scondly, with the repaid development of technology and economy, people's living  standard is improve greatly. That is say, many people need higher quantily and a wide of food. For example,  people used to have one or two kind of food, but now they can afford more food in one dish so that there much more nutrition in the diet. As a reslut, they have healther body.
 
@@ -213,3 +217,41 @@ Rich material life could make people **more happy^3^**. With the economy develop
 1. more 是系动词，might 后要加 be，might be more convenient
 2. 新增观点。To meet people's high-level life and high-quality education usually need more money to support. Government should invest in education and public health area such as constructing more schools and hospitals, which lead to the fact that the quality of education and medicine in that district might be improved. As the result, people who live in the area will happier. 
 3. happy是个形容词，比较级是happier，前面应该有be动词
+
+## Crime
+
+### 1.
+
+![范文图片](./resource/24.jpg)
+
+In some area of the world, an increasing number of crimes are being committed by teenagers and children. The reason of increase will be discussed and measures will be given.
+
+The lack of family education is a most important reason. Firstly, some parent spend more time on their work or carrer rather than accompanying their children. So, this teenagers are short of parental care, which lead to the fact that children could have a sence of lonely. And this phenomenon could bring bad effect on children's development of character. As the result, some children could produce misconduct. Secondly, some parents could neglect their children's bad behavior such as associating with frinds who have bad behavior, dropping out of school, drinking and smoking. A large number of parents usually do not attach importance to this behavior, which lead to the fact that some children might develop into a crime.
+
+What unhealthy media said could bring bad effect on children and teenagers. Media such as TV, Internet, and books could spread harmful information such as violence, which could bring bad effect on children. So, some children might produce misconduct under the bad influence. More importantly, some children might grow in this surrounding all the time and throught learning bad content from unhealthy media could involve some crimes.
+
+Two meansures can be taken to solve this problems. Firstly, parents should create a balance between achiveing career goals and accompanying their children. Accompanying their children go through some vital points of children's growth, and give some advice about how to deal with the relationship between frends and classmates. Secondly, goveronment should forbid the spread of harmful information, and take care about children who drop out from school.
+
+## Work
+
+### 1. 
+
+![范文图片](./resource/25.jpg)
+
+Recently, with the development of technology and sicence, an increasing number of machines complete the hard physical work in certain industry. In my view, this trend has more positive effects than negative effects.
+
+The machine could be good at involving hard physical works better. The power of machine is bigger than that of human. So, machine is more fit hard physical works which always harm personal healthy such as moving heavy stuff, working for long time and working in a noisy environment. Besides, people usually generate bad mood such as a sense of bore, because of a large quantity of repetitive works. As a result, this bad mood could bring bad influence such as decline of work efficiency, which is disadvantage for economic development.
+
+Some industry might benefit from using machine instead of human. For example, employer must pay salar and insurence for their employee, which is a large part of expenditure. Compare with human, machine just need power such as fossil fuel and electric power. That expenditure is far lower than cost of labor. As a result, some factory might gain economic profit from using machine.
+
+It is admitted that the overuse of machine could bring some society problems. For example, an increasing number of machines might occupy more human's jobs, which lead to the increase of unemployment rate.
+
+To sum up, although the overuse machine could bring some society prbolems, machine generate a large amount of benefit to society.
+
+## Global issues
+
+### 1. 
+
+![范文图片](./resource/26.jpg)
+
+Recently, with the development of society, gap
