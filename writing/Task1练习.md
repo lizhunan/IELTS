@@ -213,9 +213,23 @@ Overall, the layout for Plan A is more spacious while the layout of Plan B is mo
 
 ![范文图片](./resource/23.jpg)
 
-The graph show how the cocoa beans is produced. Generally speaking, this process involves several main steps. And the process will be given.
+The graph shows how the cocoa beans is produced. Generally speaking, this process involves several main steps. And the process will be given.
 
 The first step is process the cocoa beans which grown in South America and Africa. Firstly, people should pick beans with a ripe red poads from cacao tree. Secondly, people harvest pods and take out the white cocoa beans from red pods. Thirdly, before the second step these cocoa beans exprience fermentation and spread in sun to dry. Then, the second step is transporting cocoa beans to factory. People put beans in large sacks and take beans to factory by train or lorry. The last step is produce liquid chocolate in the factory. In this factory, Beans will be roasted, and will be heated to about 350°. And than, these beans will be removed outer shell and will be crushed. Finally, people will press the beans inner part, meanwhile the liquid chocolate will be produced.
+
+Actually, process of making chocolate need the white bean which is taken from pods. Secondly, the beans will be fermented and spread in sun to dry, before the beans are put into large sacks and transported by train or lorry to the factory. The following step is that the beans are roasted in about 350℃. When they cool, the beans will be crushed and the outer shell will be removed. Finally, the beans exprience inner part press, the liquid chocolate is produced.
+
+- 流程图中的表述对象应该用被动语态
+
+![范文图片](./resource/28.jpg)
+
+The graph shows how the bottles are recycled. Generally speaking, this process involves several main steps. And the process will be given.
+
+In the stage 1, the first step is that wasted glass bottles will be put into collection point. And then, these bottles will be transported to glass factory. When it comes to stage 2, before entering into glass factory, **~~these bottles would need to clear, green and brown by using high-pressure water because these factories need clear and standard bottles which are obtained by collection points.~~<u>these bottles would need to clearned by high pressure water and picked up according to different colors, because these factories need standard bottles.</u>^1^** Secondly, these bottles will be broken and turned into glass pieces. The following step is that these glass pieces will be burned in furnace at about 600℃ to 800 ℃, in this step, the recycyled liquid glass will be produced. And then, these recycled liquid glass will be mixed with new liquid glass before shaped in glass mould. Finally, in the stage 3, these bottled which are reshaped in stage 2 will be used in some areas such as filling coca-cola and so on when the products ready for sale in supermarket. 
+
+- 注意被动语态的用法
+
+1. 注意题目步骤
 
 ---
 

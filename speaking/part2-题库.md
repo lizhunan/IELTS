@@ -136,8 +136,10 @@ Describe a dinner (with your friends) that you really enjoyed.
 - What you ate in the dinner
 - Whom you had dinner with
 - And explain why you enjoyed the dinner
-
-We went to a hot pot restaurant to celebrate the victory. We selected a Sichuan hot pot restaurant which was famous for the spicy flavor. We ordered some mutton, beef and some vegetables as well as some beer. Everyone was excited and drank a lot. 
+In the third year of my university, I joined in a team, a computer programming competition team.
+I took part in a national competition on behalf of Shandong province. Our team won the first place in the game.
+So, We went to a hot pot restaurant to celebrate the victory. We selected a Sichuan hot pot restaurant which was famous for the spicy flavor. We ordered some mutton, beef and some vegetables as well as some beer. Everyone was excited and drank a lot. 
+For the reason why I enjoy the dinner, it give me a chance to spend time with my teachers and team members to have a meal because we were very busy when we prepared the competition.
 
 ## 10.30
 
@@ -150,4 +152,119 @@ Describe an enjoyable long car journey.
 - What happened on the ride
 - And explain why it was enjoyable.
 
-My friend and I took a self-drive tour to Qingzhou last spring. QZ简介。 It was a three-hour trip and we set off at 8 am. When we drove northward, the views became pretty beautiful. There were many rolling hills and clear water. There was even a small waterfall at the foot of a mountain. The most impressive thing during the trip was that we drove uphill when arriving at the famous mountain. When being tired, we stopped by the roads and took some photos of the pretty views. Another thing I have to mention is that we got to know many people we also took a self-drive tour to QZ from different cities. We had a picnic together at noon and took some pictures. I was really happy that day because of friend’s company and the eye-pleasing sceneries. 
+My friend and I took a self-drive tour to Qingzhou last spring.
+There is a tourist site called Ancient City of Song, which is a group of traditional Chinese buildings. The history of the buildings could be traced to 1000 years ago in Song dynasty. 
+It was a three-hour trip and we set off at 8 am. When we drove northward, the views became pretty beautiful. There were many rolling hills and clear water. There was even a small waterfall at the foot of a mountain. 
+The most impressive thing during the trip was that we drove uphill when arriving at the famous mountain. When being tired, we stopped by the roads and took some photos of the pretty views. 
+Another thing I have to mention is that we got to know many people we also took a self-drive tour to QZ from different cities. We had a picnic together at noon and took some pictures.
+I was really happy that day because of friend’s company and the eye-pleasing sceneries. 
+
+## 11.11
+
+### Helping a family member
+
+Describe a time when a family member asked for your help.
+You should say:
+When it happened
+What the family member asked you to help with
+What you did to help him/her
+And explain how you felt about helping him/her.
+
+- 结合great uncle， 教他使用office software
+
+Ok, the family member I'd like to take about one of my relative, my great uncle.
+He is in his 70s, but looks younger than his age.
+He usully wears white shirt and a pair of glasses.
+We don't meet very often and only have meals together in spring festival, but in last spring festival, he asked for my help to teach him how to use computer.
+Because he wants to run a chemical facotory in my hometown. And he began to study accounting and computer by himself since he retired from his position as a judge in local court.
+So, in February this year, I taught him how to typing and how to use office software. For example, when he would need to take meeting recording, I adviced him using surface pen and surface pro on office software, which is a high-efficiency mothed. 
+My great uncle is a smart man. And he's ability of learning is very good, just need a bit practice.
+At the last weekend, he told me that my advices are very helpful when he had a meeting.
+So, I am very happy. 
+
+## 11.12
+
+### New skill/a person teaching you a skill
+
+Describe an experience someone taught you a new/an important skill when you were a child.
+You should say:
+Who the person was
+What he/she taught you
+Whether it was easy or difficult
+And explain how you felt about learning it.
+
+Ok, the person I'd like to take about one of my relative, my great uncle.
+He is in his 70s, but looks younger than his age. Because he always do exercise such as swmming in gym. 
+He is a PE teacher. And he always wear a sport clothes. It makes him look more professional.
+We don't meet very often and only have meals together in spring festival, but in last spring festival, I asked his help about how to swimming, because I want keep fit by swimming.
+So, in February this year, he and me went to swimming in gym. And he gave me some advices about swimming skils.
+But I think it would be really difficult for me. 
+First, I need to learn the basic postures and movements. 
+Second, I have to master some techniques, such as how to control my breath under water and how to keep my body balance to float on the water. 
+But finally, I learned how to swimming and keep me float on the water.
+
+## 11.12
+
+### Waste of time
+
+Describe a time when you did something which was a waste of time.
+You should say:
+What you did
+When and where it happened
+How you did it
+And explain why you think it was a waste of time./ how you felt about doing it.
+
+My experience of wasting time is that when I prepared IELTS, I wasted much time.
+It was June this year that I had much free time. Instead of making full use of the time to study English, I went to parties and travelled to different cities for 1 month, such as GZ, SZ, and CD. After the blast, I came back to Jinan and was going to work on the IELTS test. But my university informed me to take part in a competition in the field of computer science. Then my team member and I prepared the match for almost two months, during which I had no time to learn English. That means that I had to postpone my English learning to September. I was really regretful because I realized that leaning English requires much time and energy but I wasted so much time in the past three months, especially the partying and travelling, which wasted me 1 month. This experience also teaches me a lesson that I should make full use of time and make a clear plan.
+
+## 11.12
+
+### Mistake
+
+Describe a time when you learned /gained experience from a mistake.
+You should say:
+When this happened
+What mistake you made
+Why you made the mistake
+And explain what you learned from the mistake.
+
+- 结合浪费时间
+
+## 11.13
+
+### Sport
+
+Describe a sport you want to learn in the future/try for the first time.
+You should say:
+What sport it is
+How you would learn it
+Whether it is easy or difficult
+And explain why you would like to learn it.
+
+## 11.13
+
+### Risk
+
+Describe a time when you took a risk which you thought was bad at first but succeeded in the end/a risk you had taken which had a positive result.
+You should say:
+When it happened
+What risk you took
+How you managed to succeed
+And explain how you felt about it.
+
+OK, this topic reminds me of something happened when I was in the third year of my university. It was a mid-term project that we were required to finish. There were several subjects for us to choose, among which the most difficult one was “face recognition”.  All our classmates avoided this subject. But I had the urge to have a try because if I could succeed in it, it would improve my credits and rank greatly. Then, I chose to take the risk. In the following three weeks, I collected data, made models, programmed the codes and did experiment in the lab. Finally, my subject was successful and got a high score. My credits and rank rose accordingly. This experience taught me a lesson that high risk can bring about more profits. Though at first it was a challenge and risk for me, I harvested good grades. Of course, hard work is always worthwhile and my efforts helped me achieve my goal.
+
+## 11.13
+
+### Getting lost
+
+Describe an occasion when you got lost.
+You should say:
+When it happened
+Where you were
+Why you got lost
+And explain how you found the right road.
+
+This topic reminds me of / I am going to take about a time when I got lost in my childhood. At that time, I was about three years old. My mother and I went to the shopping mall. At the entrance of the mall, there was a beautiful fountain. I became very interested in the fountain. I used to wait quietly by the side of the fitting room when my mother tried on a dress in a clothes store. But that day, I sneaked out when my mom was in the fitting room and went to the fountain. I played with the water for a while before coming back to my mom. But I was kind of lost. Looking through every shop for several times, I didn’t find my mom. Actually, I just couldn’t remember which shop my mom was in. being scared and anxious, I went to the shop assistant for help. Thanks to the nice lady, she helped me look for my mom by means of the broadcasting system. Finally, my mom went to the staff office and picked me up. That was the only time when I got lost. Since then, I have never got lost. 
+
+

@@ -226,11 +226,15 @@ Rich material life could make people **more happy^3^**. With the economy develop
 
 In some area of the world, an increasing number of crimes are being committed by teenagers and children. The reason of increase will be discussed and measures will be given.
 
-The lack of family education is a most important reason. Firstly, some parent spend more time on their work or carrer rather than accompanying their children. So, this teenagers are short of parental care, which lead to the fact that children could have a sence of lonely. And this phenomenon could bring bad effect on children's development of character. As the result, some children could produce misconduct. Secondly, some parents could neglect their children's bad behavior such as associating with frinds who have bad behavior, dropping out of school, drinking and smoking. A large number of parents usually do not attach importance to this behavior, which lead to the fact that some children might develop into a crime.
+The lack of family education is a most important reason. Firstly, some parent spend more time on their work or career rather than accompanying their children. So, this teenagers are short of parental care, which lead to the fact that children could **~~have a sence of lonely.~~ <u>feel lonely</u>** And this phenomenon could bring bad effect on children's development of character. As the result, some children could produce misconduct. Secondly, some parents might neglect their children's bad behavior such as associating with friends who have bad behavior, dropping out of school, drinking and smoking. A large number of parents usually do not attach importance to this behavior, which lead to the fact that some children might develop into a crime.
 
-What unhealthy media said could bring bad effect on children and teenagers. Media such as TV, Internet, and books could spread harmful information such as violence, which could bring bad effect on children. So, some children might produce misconduct under the bad influence. More importantly, some children might grow in this surrounding all the time and throught learning bad content from unhealthy media could involve some crimes.
+What unhealthy media said could bring bad effect on children and teenagers. Media such as TV, Internet, and books could spread harmful information such as violence, which could bring bad effect on children. So, some children might **~~produce misconduct~~ behave badly^2^** under the bad influence. More importantly, some children might grow in this surrounding all the time and **~~through learning bad content from unhealthy media, children could involve some crimes.~~**
 
-Two meansures can be taken to solve this problems. Firstly, parents should create a balance between achiveing career goals and accompanying their children. Accompanying their children go through some vital points of children's growth, and give some advice about how to deal with the relationship between frends and classmates. Secondly, goveronment should forbid the spread of harmful information, and take care about children who drop out from school.
+Two meansures can be taken to solve this problem. Firstly, parents should create a balance between achieving career goals and accompanying their children. Accompanying their children go through some vital points of children's growth, and give some advice about how to deal with the relationship between friends and classmates. Secondly, goveronment should forbid the spread of harmful information, and take care about children who drop out from school.
+
+1. lonely是形容词，不能与sence of + n使用。loneliness是名词，可以sence of loneliness，可以用feel lonely 感到孤独
+2. 坏的行为
+3. through ... , sb could ...
 
 ## Work
 
@@ -240,13 +244,15 @@ Two meansures can be taken to solve this problems. Firstly, parents should creat
 
 Recently, with the development of technology and sicence, an increasing number of machines complete the hard physical work in certain industry. In my view, this trend has more positive effects than negative effects.
 
-The machine could be good at involving hard physical works better. The power of machine is bigger than that of human. So, machine is more fit hard physical works which always harm personal healthy such as moving heavy stuff, working for long time and working in a noisy environment. Besides, people usually generate bad mood such as a sense of bore, because of a large quantity of repetitive works. As a result, this bad mood could bring bad influence such as decline of work efficiency, which is disadvantage for economic development.
+The machine could be good at involving hard physical works better. The power of machine is bigger than that of human. So, machine is more fit hard physical works which always harm **~~personal~~ individual health^1^** such as moving heavy stuff, working for long time and working in a noisy environment. Besides, people usually generate bad mood such as a sense of bore, because of a large quantity of repetitive works. As a result, this bad mood could bring bad influence such as decline of work efficiency, which is disadvantage for economic development.
 
-Some industry might benefit from using machine instead of human. For example, employer must pay salar and insurence for their employee, which is a large part of expenditure. Compare with human, machine just need power such as fossil fuel and electric power. That expenditure is far lower than cost of labor. As a result, some factory might gain economic profit from using machine.
+Some industry might benefit from using machine instead of human. For example, employer must pay salary and insurance for their employee, which is a large part of expenditure. Compared with human, machine just need power such as fossil fuel and electric power. That expenditure is far lower than cost of labor. As a result, some factory might gain economic profit from using machine.
 
 It is admitted that the overuse of machine could bring some society problems. For example, an increasing number of machines might occupy more human's jobs, which lead to the increase of unemployment rate.
 
 To sum up, although the overuse machine could bring some society prbolems, machine generate a large amount of benefit to society.
+
+1. personal 个人的，私人的。individual health 个人健康
 
 ## Global issues
 
@@ -254,4 +260,88 @@ To sum up, although the overuse machine could bring some society prbolems, machi
 
 ![范文图片](./resource/26.jpg)
 
-Recently, with the development of society, gap
+Recently, with the development of society, the gap between countries are more narrow. **~~People could enjoy same films, brands, fashion, advertisements and TV channels.~~ <u>Same things might happen in different countries simultaneously</u>^1^** In my view, this phenomenon has more advantages.
+
+**~~It is the important for broaden^2^ people's horizon that people could share their entertainment such as filems, fashion and TV channels.~~ <u>That people share their entertainment such as films, fashion and TV channels is important for broadening people's horizon.</u>^2^** People especially children could gain more **knowledge^4^** about the other customs in the world, which leads to the fact that people could **eliminate ~~mistakes~~ <u>misunderstanding</u>^5^** between different nations. As a result, people coulde reduce conflict because of **~~mistakes~~ <u>misunderstanding</u>^5^** of customs **~~in some extent~~<u>to some extent</u>^6^**. So, the world might be more peaceful and people might be happier.
+
+Promoting communication between different countries could **benefit^7^** the world. Communication between different countries could be beneficial for some industries such as tourism and international trade. People could learn about other countries' products through advertisements and TV channels, which **~~leads the fact that~~^8^** the economy could improve in the world. For example, **for developing countries, people could buy some natural products such as fruits and sea-food.^9^** Meanwhile, people could travel in developed countries **~~as well~~<u>and</u>^10^** buy high-tech products in USA and enjoy fashion show in France. **~~So, it has benefit to development of economics in whole of the world.~~<u>Sale of products might increase. As a result, economy in these coutries develop faster. So, it is beneficial for the development of global economy</u>^11^**
+
+It is admitted that globalization could bring some problems. **~~For example, some people and media spread harmful information through network and TV channels. As a reasult, some children could suffer bad effect.~~<u>For example, some people could celebrite westen festival such as christmas. As a result, tranditional festival in certain countries lose popularity.</u>^12^**
+
+To sum up, although globalization might bring some problems, promoting communication between different countries could benefit for the world.
+
+- 注意：表目的用to，表对...来说用for
+- as...as
+    - as soon as possible 尽可能快 adv.（固定用法）（as adv. as）
+        - I will finish my work as soon as possible. 我尽可能快的完成我的工作
+    - as soon as 表一...就...
+        - As soon as I finish my work, I will play game. = I will play game as soon as I finish my work. 我一工作完就玩游戏
+    - as adv as 像...一样
+        - as far as: I can run as far as you can. 我能跑的跟你一样远
+        - as beautiful as
+
+1. 与题目中句子重复，建议改变说法
+2. broad 宽的 adj. broaden-broadened-broadened-broadening 扩大
+3. 语法错误，主语从句举例：That I like you is true.(从句不缺成份);What I want to say is that... .(从句缺成分，成分是what)
+4. 注意发音knowledge
+5. mistake 错误，misunderstanding 误解，辨析
+6. to some extent 在一定程度上
+7. 关于benefit的用法。
+    - 作名词，Climbing has 3 benefits for body.
+    - 做动词，Climbing benefits our body.
+    - 做形容词，Climbing is beneficial for our body.
+8. which leads the fact that = which means that
+9. 举得例子不太好，可以详细举例。For example, American could buy some natural products such as dairy from Austrilia. Meanwhile Japanese could travel in America.
+10. as well 放在句位，as well as 链接两个名词
+11. 逻辑跳度太大，应该现又提高产品销量，再推导出国家经济迅速发展
+12. 举得例子不好，没有全球化，媒体和个人也会传播有害信息。
+
+![范文图片](./resource/29.jpg)
+
+Although poor countries always receive financial aid from developed countries, the poverty problem **~~is failed to resolve~~<u>fail to be resolved</u>^1^** in developing countries. So, some people think that rich countries should give other kinds of aid to the poor countries instead of the financial aid. I agree with this statement.
+
+**~~It is the important for local development of economics that developed countries invest in local industry such as steel industry and high-technology industry~~<u>The fact that developed countries invest in local industry such as steel industry and high-technology industry is important for  development of local economy.</u>^2^**. In some poor countries, there are rich natural resources such as coal, oil, and a variety of mine. So, many companies from rich countries could **invest in^3^** these areas. For example, some companies could develop local mine resources and build branch company, which could solve local unemployment problem and increase local government revenue.
+
+Investing poor area's education could benefit **~~local long-term development~~<u>local development in a long term</u>^4^**. Except investing local industry which is beneficial for local development in a short term, rich countries could help poor countries to build education facilities such as school, library, and museum, which leads the fact that development of local education could be improved. As a reasult, local people could work on high-paid jobs and increase their income. So, this measure could solve poor countries' economic problem.
+
+Improving developing countries' medical condition could bring more benefits. In poor countries, there are not usually enough good medical facilities, so people’ health is generally poor. Therefore, developed countries could invest local medical resources such as building hospitals, and improving doctors' income. As a reasult, people in poor countries could enjoy good medical condition and improve their health. So, these people could work more **efficiently^5^** and contribute to local economy development.
+
+To sum up, there are many measures could help poor countries to promote their economy development **and these measures could bring more benefits than financial aid. So I agree this satement.^6^**
+
+1. failed 没有被动语态，不会被失败
+2. 语法错误，主语从句语法
+3. 关于invest的用法，invest in sth 在某方面投资，例如：invest money in industry
+4. 当地的长期发展，long-term adj. long term adv. 例如：plan in a long term = a long-term plan 一个长期的计划
+5. efficiency 效率 n. efficient 有效率的 adj. efficiently 高效地 adv. effect 影响 n. 产生 v. effective 有效的 adj. effectively 有效地 adv.
+6. 结尾太短
+
+## Environment
+
+### 1.
+
+![范文图片](./resource/27.jpg)
+
+**~~Recently~~^1^**, the environment has been damaged due to human activities. Some people **~~think that it is too late to take measure for this problem.~~ <u>hold the view that solving the problem by takeing all sorts of measures is impossible because it is too late.</u>^2^** However, others believe that people could deal with this problem, though **~~take~~ <u>taking</u>^3^** some measures. Both views will be discussed and my view will be given.
+
+People could not improve this situation because a large number of **plants and animals^4^** have already distinct. For example, the hyena which **~~lived in~~ <u>used to live in</u>^5^** Australia had been disappared in 1700s. And people cannot revive these animals. At the same time, some plants have already disappared, which lead to the fact that the ecosystem balance was broken. As a reasult, the environment suffer bad influence such as the increase of gas and rise of sea level.
+
+However, we can take some measures to address this problem. For example， government **~~could build~~ have built^6^** some **nature ~~reservation~~ reserve^7^** to protect wildlife, especially endangour animals, which leads to the fact that the number of animal **~~might~~^6^** increase. As a reasult, diversity of animal might become great. Meanwhile, wwith the increase of the kind of plants, the environment might improve.
+
+In my view, although many animals and plants have **become^8^** distinct because of human activities, people could carry out some measures to improve this situation. Because with the development of science and technology, people already created the suitable surroundings for animals and plants to live.
+
+- 双边讨论开头段
+    1. 背景句
+    2. 一方观点
+    3. 另一方观点
+    4. Both views will be discussed and my view will be given.
+- 中间两段分别讨论两方观点
+- 结尾段，要留出一个论点去支持你得观点，这个观点是题目中两个观点之一，选择一个支持
+
+1. 像这种一直存在的问题不适合用recently, today, nowaday
+2. 与题目中的句子重复
+3. through 是介词，后面跟动名词 through taking some measures.
+4. plant 和 animal 是可数名词，复数+s
+5. 表曾经 used to
+6. 题目中说采取措施缓解这个状况，所以要描述已经采取的措施
+7. 自然保护区
+8. become-became-become

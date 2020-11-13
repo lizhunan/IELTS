@@ -600,4 +600,298 @@ Anyway, I’m not rich and I also need money to support my daily life.
 Of course I will feel bad. 
 I lend money to friends in order to help them go through the tough life, but they don’t give the money back, and I will have a feeling of being cheated.
 
+## Living place & neighbor 11.3
+
+### What place do you live in? Do you like living there?
+
+I live in Huaiyin district in Jinan. 
+My apartment is near the West Station of JN, and it takes me about 30 minutes to go there by bus.
+
+Yes, I like living there very much. 
+There are many shops and restaurants nearby, and my friends and I often go there for meals at the weekends. 
+Besides, there are a couple of cinemas. We sometimes go there to watch movies.
+
+### Is it suitable for kids to live?
+
+Sure. It’s suitable for kids. 
+There are many facilities and resources for kids, such as schools and libraries, so children can be well educated here.
+
+### Do you know the people in your neighborhood?
+
+Yes, I know some of them, such as the neighbor who lives across my door or next door.
+At the weekends, we go fishing together.
+
+### How do you get along with neighbors?
+
+Well, we are very close with each other and sometimes go partying together. 
+For example, last weekend, we celebrated birthday for my neighbor. 
+Once in a while, we take a walk in the park.
+
+## Sports 11.3
+
+### What sports did you like when you were young?
+
+I liked football very much. 
+When I was in middle school, I took part in the football team. We had football matches with other schools for many times.
+
+### Are there many different kinds of sports in China?
+
+Sure, we have many different types of sports in China, such as Ping pong, basketball, swimming and so on. 
+Take myself as an example, I like playing football with my friends. Occasionally, I go swimming in swimming pool.
+
+### Is there a sport team that you support?
+
+Yes, as a fan of football, I like the football team called LN, which is a local team in Shandong province. 
+In fact, I know the captain of the team, who is a friend of mine. By the way, LN has a high rank among Chinese football teams.
+
+### Do you think there are too many sports shows on TV?/ Are there a lot of sports shows on TV?
+
+Yes. I think so. 
+We have many sports channels on TV, such as CCTV 5. I like watching sports shows on TV with my family at the weekend.
+
+### Would you like to try a new sport or activity? With your friends or by yourself?
+
+Well yes, I would like to try swimming. 
+The fact is that I’m not good at swimming. One of my friends does quite well in swimming. We have an appointment that next week he is going to teach me how to swim.
+
+### Did you like trying new sports when you were young?
+
+Yes. When I was in middle school, I fell in love with football and attended the football team. 
+In fact, I used to be very active when I was young and took part in many activities. 
+
+## Weekend activity 11.4 
+
+### What do you often do at weekends? Who do you spend time with?
+
+I often play football with my friends at the weekend.
+Sometimes we might go fishing with my nighbor. 
+And my friends always stay with me at the weekend.
+
+### What do you do in your spare time?
+
+I always go fishing with my friends in my spare time.
+Actually, My friends and I have an appointment that next week we will go fishing.
+
+### What do people in your hometown often do at weekends?
+
+In my hometown, people have a variety of things to do at the weenkend such as fishing. 
+Actually, My friends and I have an appointment that next week we will go fishing.
+
+### What are you going to do next weekend?
+
+Actually, My friends and I have an appointment that next week we will go fishing.
+
+## Handwriting 11.4
+
+### Do you prefer to write by hand or with computer? / Do you often write with a pen?
+
+I prefer to write with computer.
+Because it’s very convenient and I often take notes with my computer in class. 
+Actually, there are many note-taking apps in my computer, such as VS code which has a powerful function.
+
+### Is your handwriting easy to read for other people?
+
+I think it’s OK. 
+My handwriting is easy to recognize for other people. 
+I usually write carefully and slowly, so my handwriting is clear.
+
+### Do you like to receive cards with hand-written words?
+
+Sure, I like receiving cards very much. 
+For example, last year, my friends sent me some cards to celebrate my birthday. I believe they are special gifts.
+
+### What are the differences between writing with a pen and writing with a computer?
+
+There are many differences between the two. 
+For example, handwriting sometimes is less clear than words on computer. 
+Besides, we can change the colors or size of the words on computer. 
+
+### Can we tell a person’s personality from his or her handwriting?
+
+Yes, I believe so. 
+If a person’s handwriting is hasty or messy, he or she is usually quick-tempered. 
+If a person’s handwriting is clear and neat, he or she is usually a careful person.
+
+### Do you think it’s still meaningful to write letters or cards?
+
+Yes, it’s of great meaning to write cards or letters. 
+For example, on my friends’ birthday, I usually write cards for them, and it’s beneficial for our friendship. 
+
+## Text message 11.5
+
+### Do you like texting messages?
+
+Well, it’s hard to say whether I like it or not. 
+But for many situations, it’s better to text messages to others. 
+For example, I always send short messages to friends when it is not convenient for them to answer my phone.
+
+### Do you like making phone calls?
+
+OK, it’s difficult to say. 
+In some situations, it’s better to call. 
+For example, when I’m in an emergency, I tend to phone my friends to ask for help. 
+But when they are busy, I choose to send a message.
+
+### Do you prefer to send messages or to receive messages?
+
+It depends on whom I’m talking with. 
+For my girlfriend, I like both sending and receiving messages to or from her. 
+But when it comes to my boss, it will be another story /it will be the opposite. 
+
+### Have you ever receive any confusing messages?
+
+Yes, I have received many confusing messages, most of which are the frauds, saying something I couldn’t understand.
+
+## Fruit 11.5
+
+### What fruit do you like to eat?
+
+I like a variety of fruit, such as apple, banana, and pear.
+There are rich vitamins in these fruits. It’s beneficial for our health.
+
+### How often do you eat fruit?
+
+I eat fruit every day. 
+Actually, I ate an apple before coming here. It’s very sweet and delicious.
+
+### Is it important to eat fruit?
+
+Eating fruit is benefical for our health.
+There are rich vitamins in these fruits. It’s beneficial for our health.
+
+### Are there any kinds of famous fruit in China?
+
+Sure, we have many delicious fruits in China, such as an apple called HFS. 
+It is the local specialty in Yantai. This kind of apple is big, red and delicious. 
+
+## Clothes 11.9
+
+### What kind of clothes do you like to wear?
+
+I like sports clothes very much. 
+I’m a big fan of sports, such as basketball and soccer. 
+The sports clothes are comfortable and convenient when doing sports.
+
+### What do you like to wear at weekends? Is it the same as in the weekdays?
+
+In weekdays, I usually wear shirt attending classes or taking part in job interviews. 
+At weekends, I wear sports clothes and do sports with my friends.
+
+### Will you buy clothes of name/big brand? / do you buy clothes simply because of the brand name?
+
+Yes, I like big brands. 
+The big brands usually have high quality and the fabric is comfortable. 
+The only drawback is that the price is high.
+
+### Do you care about fashion?
+
+No, I don’t care much about fashion. 
+Fashion, to some extent, means that many people wear the same clothes. 
+I don’t want to look the same as others.
+
+### On what occasions will you dress differently?
+
+It depends. 
+When I take part in job interviews, I often wear shirts or suits which are formal. 
+When doing sports, I usually wear sports clothes which are comfortable. 
+When taking part in other’s wedding as the best man, I always wear suit to show respect to this grand occasion.
+
+### What colors do you like to wear? What will you never choose to wear？
+
+I like white clothes which look neat and tidy.
+Importantly, white is my favorite color.
+
+## Furniture 11.9
+
+### Do you have many pieces of furniture at home?
+
+No, I just have few pieces of furniture, including a bed, a table, a sofa and wardrobe. 
+I rent the place where I live now. it’s quite simple. 
+
+### What furniture do you like the most?
+
+I like my bed most. 
+When I feel tired, I can take a break on it. 
+Sometimes, I play computer games and read books on my bed. 
+
+### Did anyone ever give you a piece of furniture?
+
+No, actually, no one has given me any furniture. 
+All the furniture I use now is provided by the landlord.
+
+### What furniture would you like to receive/have in the future?
+
+Actually, I want to have a bookshelf because I have many books which now piles up in the corner of my room. I want to have a shelf to keep my books.
+
+## Change 11.10
+
+### Do you like changes?
+
+Yes, I like changes and I always hope that my life can become better, so now I’m studying English preparing to further my education in Hong Kong.
+
+### Have you changed much compared with your childhood?
+
+Sure. I have changed a lot compared with my childhood. 
+First, my appearance changes much, such as my face and my height. 
+Second, I have learned much knowledge in the field of computer science. 
+Importantly, I like learning English more than when I was a kid.
+
+### Did you like to try new activities when you were young?
+
+Yes, I liked trying different activities when I was young. For example, I liked football very much and I took part in football matches in primary school. Later, I became interested in swimming, and my friend often invites me to swim in the swimming pool.
+
+### Are there any changes in your hometown in recent years? 
+
+Sure, there are many changes in my hometown in recent years. For example, local government invests in infrastructure, including hospitals, parks, schools and transports. 
+These facilities are convenient for citizens.
+
+## List 11.10
+
+### Do you make a list when shopping?
+
+No, not really. 
+I don’t have the habit of making a shopping list. 
+Actually, I don’t go shopping very often, and when I go to the shop, I just buy a couple of daily goods.
+
+### Do you make a list for study/work?
+
+Yes, I often make a study plan because it can improve my efficiency. 
+For example, when learning English, I make a list of ways about how to improve my vocabulary or grammar.
+
+### Why do some people dislike making lists?
+
+Well, I don’t know. 
+I guess they don’t like to be restricted by the list. 
+Besides, sometimes, there are unexpected things to change the list. 
+
+### Do you prefer to make a list on paper or in your phone?
+
+Well, I prefer phone to paper when it comes to making a list, because I get used to keeping a memo or making a plan in my phone. 
+Importantly, the ring of the phone can alarm me of the tasks.
+
+## Recycle 11.11
+
+### Do you recycle things？ What do you recycle?
+
+Well, yes, I usually recycle the plastic shopping bags or containers to keep rubbish.  
+
+### Did you recycle things when you were young?
+
+OK, I guess yes. 
+But literally it’s my mom who recycled the old clothes which belonged to my cousin brothers. 
+So I used to wear the recycled clothes.
+
+### What things are recyclable? 
+
+There are many things which are recyclable, such as old computers, clothes, phones and books. 
+For example, specialized books are usually expensive, so we tend to buy second-hand books.
+
+### Do you think people’s attitude towards recycling changes?
+
+In my view, I guess nowadays people have a positive attitude towards recycling. For example, many people have the awareness of recycling things to save money.
+
+### Do you think children should learn to recycle things?
+
+Yes, I think it’s important for children to learn how to recycle things, and it’s a good way to avoid waste. It can also cultivate children’s environmental awareness.
+
 --- 
