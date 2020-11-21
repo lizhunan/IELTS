@@ -215,7 +215,12 @@ How you did it
 And explain why you think it was a waste of time./ how you felt about doing it.
 
 My experience of wasting time is that when I prepared IELTS, I wasted much time.
-It was June this year that I had much free time. Instead of making full use of the time to study English, I went to parties and travelled to different cities for 1 month, such as GZ, SZ, and CD. After the blast, I came back to Jinan and was going to work on the IELTS test. But my university informed me to take part in a competition in the field of computer science. Then my team member and I prepared the match for almost two months, during which I had no time to learn English. That means that I had to postpone my English learning to September. I was really regretful because I realized that leaning English requires much time and energy but I wasted so much time in the past three months, especially the partying and travelling, which wasted me 1 month. This experience also teaches me a lesson that I should make full use of time and make a clear plan.
+It was June this year that I had much free time. 
+Instead of making full use of the time to study English, I went to parties and travelled to different cities for 1 month, such as GZ, SZ, and CD. 
+After the blast, I came back to Jinan and was going to work on the IELTS test. But my university informed me to took part in a competition in the field of computer science. Then my team member and I prepared the match for almost two months, during which I had no time to learn English. 
+That means that I had to postpone my English learning to September. 
+I was really regretful because I realized that leaning English requires much time and energy but I wasted so much time in the past three months, especially the partying and travelling, which wasted me 1 month. 
+This experience also teaches me a lesson that I should make full use of time and make a clear plan.
 
 ## 11.12
 
@@ -230,6 +235,14 @@ And explain what you learned from the mistake.
 
 - 结合浪费时间
 
+The mistake I'd talk about one of my experience. This expericence is that I wasted much time, when I prepared IELTS.
+It was June this year that I had much free time. 
+Instead of making full use of the time to study English, I went to parties and travelled to different cities for 1 month, such as GZ, SZ, and CD. 
+After the blast, I came back to Jinan and was going to work on the IELTS test. But my university informed me to took part in a competition in the field of computer science. Then my team member and I prepared the match for almost two months, during which I had no time to learn English. 
+That means that I had to postpone my English learning to September. 
+I was really regretful because I realized that leaning English requires much time and energy but I wasted so much time in the past three months, especially the partying and travelling, which wasted me 1 month. 
+This experience also teaches me a lesson that I should make full use of time and make a clear plan.
+
 ## 11.13
 
 ### Sport
@@ -240,6 +253,15 @@ What sport it is
 How you would learn it
 Whether it is easy or difficult
 And explain why you would like to learn it.
+
+Ok, I'd like to talk about swmming that I want to learn in the next month.
+Because swimming is beneficial for our healthy and lose our weight, especially swimming is a survival skill.
+But I think it would be really difficult for me. 
+First, I need to learn the basic postures and movements. 
+Second, I have to master some techniques, such as how to control my breath under water and how to keep my body balance to float on the water.
+So, I asked my uncle help to teach me how to swim last month, because my uncle is a PE teacher who teach swimming in primary school.
+And my uncle and me have an appointment that next month he is going to teach me how to swim.
+I belive that I can learn swmming though it very difficult.
 
 ## 11.13
 
@@ -252,7 +274,12 @@ What risk you took
 How you managed to succeed
 And explain how you felt about it.
 
-OK, this topic reminds me of something happened when I was in the third year of my university. It was a mid-term project that we were required to finish. There were several subjects for us to choose, among which the most difficult one was “face recognition”.  All our classmates avoided this subject. But I had the urge to have a try because if I could succeed in it, it would improve my credits and rank greatly. Then, I chose to take the risk. In the following three weeks, I collected data, made models, programmed the codes and did experiment in the lab. Finally, my subject was successful and got a high score. My credits and rank rose accordingly. This experience taught me a lesson that high risk can bring about more profits. Though at first it was a challenge and risk for me, I harvested good grades. Of course, hard work is always worthwhile and my efforts helped me achieve my goal.
+OK, this topic reminds me of something happened when I was in the third year of my university. 
+It was a mid-term project that we were required to finish. There were several subjects for us to choose, among which the most difficult one was “face recognition”.  
+All our classmates avoided this subject. But I had the urge to have a try because if I could succeed in it, it would improve my credits and rank greatly. 
+Then, I chose to take the risk. In the following three weeks, I collected data, made models, programmed the codes and did experiment in the lab. 
+Finally, my subject was successful and got a high score. My credits and rank rose accordingly. 
+This experience taught me a lesson that high risk can bring about more profits. Though at first it was a challenge and risk for me, I harvested good grades. Of course, hard work is always worthwhile and my efforts helped me achieve my goal.
 
 ## 11.13
 
@@ -265,6 +292,12 @@ Where you were
 Why you got lost
 And explain how you found the right road.
 
-This topic reminds me of / I am going to take about a time when I got lost in my childhood. At that time, I was about three years old. My mother and I went to the shopping mall. At the entrance of the mall, there was a beautiful fountain. I became very interested in the fountain. I used to wait quietly by the side of the fitting room when my mother tried on a dress in a clothes store. But that day, I sneaked out when my mom was in the fitting room and went to the fountain. I played with the water for a while before coming back to my mom. But I was kind of lost. Looking through every shop for several times, I didn’t find my mom. Actually, I just couldn’t remember which shop my mom was in. being scared and anxious, I went to the shop assistant for help. Thanks to the nice lady, she helped me look for my mom by means of the broadcasting system. Finally, my mom went to the staff office and picked me up. That was the only time when I got lost. Since then, I have never got lost. 
+This topic reminds me of / I am going to take about a time when I got lost in my childhood. 
+At that time, I was about three years old. My mother and I went to the shopping mall. 
+At the entrance of the mall, there was a beautiful fountain. I became very interested in the fountain. 
+I used to wait quietly by the side of the fitting room when my mother tried on a dress in a clothes store. But that day, I sneaked out when my mom was in the fitting room and went to the fountain. I played with the water for a while before coming back to my mom. 
+But I was kind of lost. Looking through every shop for several times, I didn’t find my mom. Actually, I just couldn’t remember which shop my mom was in. 
+I was scared and anxious, I went to the shop assistant for help. Thanks to the nice lady, she helped me look for my mom by means of the broadcasting system. 
+Finally, my mom went to the staff office and picked me up. That was the only time when I got lost. Since then, I have never got lost. 
 
 

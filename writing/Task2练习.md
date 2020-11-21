@@ -236,6 +236,18 @@ Two meansures can be taken to solve this problem. Firstly, parents should create
 2. 坏的行为
 3. through ... , sb could ...
 
+### 2.
+
+![范文图片](./resource/31.jpg)
+
+Recently, with the development of science, many scientists think that people could predict what some children may grow up to be criminals in the future by studying the behavior of these children in their three-year-old. In my view, the crime is not determined by human nature. And it is possible that people prevent children from growing up to be criminal by carrying out some measures such as mental education.
+
+The lack of family education is most important reason which children grow up to be criminal in the future. Because some parents spend more time on their career or work, they always have not enough time to accompany their children, and these parents might not teach their children what is right and wrong, which means that their children might behave badly under the bad influence via making friends who have bad behavior. As a result, these children might grow up to be criminal. 
+
+What unhealthy media said could bring bad effect on children. Some unhealthy media such as Tv, Internet might spread harmful information, and bring bad effect on children, which lead to the fact that some children might learn bad behavior such as abuse and fight. So, some children might grow up to be criminal, though they are considered a good people in their three-year-old.
+
+Two measures can be taken to prevent children growing up to be a criminal. Firstly, parents create a balance between achieving their career goals and accompanying their children. And parents should spend more time on accompanying their children. Secondly, the government should forbid the spread of harmful information, and take care about children who drop out the school.
+
 ## Work
 
 ### 1. 

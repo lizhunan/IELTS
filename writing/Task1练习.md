@@ -104,6 +104,15 @@ For US tourists, swimming and sunbathing are both popular with US tourists, and 
 3. 一般用 be similar to ...与...相似
 4. keen 是形容词，keen on 喜欢... be keen on
 
+![范文图片](./resource/30.jpg)
+
+The bar chart shows how the percentage of the possession of newer technologies by different age groups were occupied in UK during 2009.
+
+Both mobile phone and computer were popular with people in all age, which people in their 17s-23s and 24s-44s both account for 90% in mobile phone and took up about 75% and 80% in computer. And as for people in their 45s-64s and over 65s, the percentage of possession of phone were 80% and 60% respectively. As for computer, these figures were 80% and 55% respectively. 
+
+Compared with the user of mobile phone and that of computer, the user of satNav system were not popular with people especially people in their over 65s with about 9%. But the percentage of using satNav system of people in their 24s-44s were third times more than elder people with 30%. And the percentage of people in their 17s-23s using satNav system were about 19%. Similarly, the people who use satNav system in their 45s-64 made up 20%. As for digital TV, the use of people in their 24s-44s took up 70%. The percentage of people in their 17s-23s were 20% less than the percentage of people in their 24s-44s, which was 50%. The percentage of people in their 45s-64s is similar to the percentage of people in their 24s-45s, which was around 70% and 65%. And elder people user account for 40%.
+
+
 ## 动态图
 
 ![范文图片](./resource/14.jpg)
