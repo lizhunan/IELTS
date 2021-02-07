@@ -4,33 +4,32 @@
 
 ---
 
-## Names 9.8
+## Name &Memory
 
-### Who gave you your name? 
+### Do you think it’s difficult to remember other’s name?
 
-My father give me this name.
-My name means bamboo.
-He like plants very much and we belive that plants could bring me good luck in chinese culture.
-Besides, my parents hope me a strong and smart person.
+Sure, it's difficult for me. 
+As you may kown, Chinese'name consist of a variety of Chinese character. 
+So remember others'name isn't a easy thing.
 
-### What kinds of names are popular in China? 
+### How do you remember other’s name?
 
-There are many names which are popular in China.
-One example is Li Ming, which has the meaning of light or intelligence and is easy to remember.
-Actually I have know more than 10 people whose name is Li Ming.
+I could associate name with pictures to help me to remember my friends' name. 
+For example, one of my friend's name is Li Lan. And lan means orchid in China.
+So when I remember this name, I could imagine a picture of a orchid.
 
-### Are there many Chinese people who have the same surname as you do? 
+### How would you feel if others cannot remember your name?
 
-Yes, there are many people's name like mine.
-In my class, there are 50 out of 60 students have the same surname as I do.
+I'm a little sad. 
+But I understand this kind of thing. In sometimes, people often cannot remember others' name suddenly. 
 
-### Is there any tradition about naming babies? 
+### How can people improve their memory?
 
-Yes, there are many traditional naming babies.
-We always named by a old generation.
-Because we belive that age is a symbol of wisdom.
+I have a method that could improve people's memory, which hava a enough sleep.
+A good sleep could recover people's mental state. 
+And for long-term, this method could help people to improve their memory.
 
-## Studies & study time 9.8
+## Studies & study time 
 
 ### Why did you choose to study that subject/those subjects? 
 
@@ -92,7 +91,38 @@ Because there are a number of shops in the neighborbood, which makes my life con
 Besides, the price of flat is cheaper.
 I like living in a flat very much.
 
-## Hometown & city 9.14
+## Views & scenery
+
+- 积累一下方位词，特别是附近，住的附近有什么东西，什么东西在我附近
+
+### Are there any beautiful views near the place you live/in your hometown?
+
+Yes, there is a park that near my flat.
+In this park, there are a variety of trees and flowers. And those plants around a lake.
+So, there have a beautiful views and we often go fishing in this park.
+
+### Can you see beautiful views from your window? What views can you see from your window?
+
+As I just mentioned, there is a park near my flat. 
+So, when I open the window, I could see a beautiful views easly. 
+And I could see the lake, flowers and some trees everyday via my window.
+
+### Do you like to live in a room with beautiful views during your trip?
+
+Yes, I like to live a room that near a beautiful views when I have a trip.
+Because, I could appreciate beautiful scenery when I get up every momning.
+
+### What views are beautiful views?
+
+I prefer a peace and quite surrounds.
+So in my view, the park that have a variety of plants and fewer people in there always have a beautiful views.
+
+### What beautiful views have you ever seen?
+
+When I was a kid, my parents with me went to Mount Tai, there are a variety of plants and spring.
+So, I think is a beautiful views.
+
+## Hometown & city
 
 ### Which city are you from? 
 
@@ -117,8 +147,6 @@ Now, I speed less time in my hometown than before because I work in Jinan.
 Yes, I like my hometown very much.
 There are many tasty snack in my hometown, such as braised meat, seafood and braised chicken.
 In recent years, many harbors are developing in some seaside towns, which improve fishing industry in my hometown.
-
-## Hometown & city 9.15
 
 ### What do you like most about your hometown?
 
@@ -145,8 +173,6 @@ My hometown is a developing city full of energy.
 To be more specific, there are many job opportunities for young people.
 I belive that young people can find good jobs in our city.
 
-## hometown & new people 9.16
-
 ### What kind of cities do you like?
 
 - First-tier city 一线城市
@@ -156,6 +182,84 @@ I belive that young people can find good jobs in our city.
 Well, I prefer the first-tier city. 
 These cities are attractive to young people in that there are emerging industries and high-piad jobs. 
 We can make more money and achieve our career and life goals.
+
+## China & history
+
+### Are you proud of your hometown? / What are you proud of your country? / Which part of China are you proud of?
+
+Exactly, I am proud of my country. 
+In my country, there are more infrastructure and more convenient life than other countries.
+Importantly, China have an extremely high rank of economy in the world.
+
+### Where do you want to live in China?
+
+Well, I prefer the first-tier city.
+These cities are attractive to young people in that there are emerging industries and high-paid jobs.
+We can make more money and achieve our career and life goals.
+
+### Do you like learning history? Do you do well in history lessons?
+
+Yes, I like learning histroy very much and when I was a middel school student, I have a good score in history lessons.
+I think the ancient stores are very funny, we could learn some lessons from history events as well. 
+
+### Do you know much about Chinese history?
+
+Yes, I know some information about history in Song dynasty.
+Because, there is a tourist site called Ancient City of Song near my hometown. And I often go there with my friends.
+In this city, we always learn some knowledge about Chinese history such as important events, customs and cloths.
+
+### Which part of history do you like the most?
+
+I like Song dynasty. Becase I often visit a tourist site called Ancient City of Song near my hometown, so I have more knowledge about Song than other dynasty history.
+Firstly, the clouth and the bildings are attractive to me in that this the pattern is very beautiful.
+Besides, I like to learn some important events about Song via reading books. It's very funny.
+
+### What’s the best of Chinese culture? Do you think you will continue to live in China in the future?
+
+Well, I think the best culture of China is food culture. In China, there are a variety of food. And those food could on behalf of local culture and surroundings.
+For example, many provinces have hot pot. But they are quite different. For instance, Si Chuan hot pot is very spicy because of loacal humid surroundings and Beijing hot pot have a higher demand for mutton because there are more fresh mutton.
+
+## Math
+
+### Do you like math?
+
+Yes, I like math very much, because this subject is very useful for my major. 
+For example, when I develpment of a software about recognize a picture, I must use some mathematic formular help me to achieve some functions. 
+
+### When did you start to learn math? / Do you learn math in middle school / high school?
+
+When I was a primary school student, I took the first math class. The teacher was very humor and responsible. He always tried to inspire me to use math knowledge in life. 
+So, I liked to learn math at that time. And when I attend middle school and high school, I was keen on math lessons and tried to use math to deal with the physical problems. 
+
+### Did your teachers deliver it in an interesting way?
+
+sure, in my collage, my math teacher always show some cases to help me to understand some formulars, and contact with my major subject.
+For example, my teacher told me the principle of facial recognition, and tought me pick up some formulars that could improve the success rate of recognition.
+
+### Is math a popular/important subject in China?
+
+Certainly, China is a develping country, and we need a lot of technology talents ecspecially in mathematics.
+So, from school to society, we always attach importance to mathematics education.
+
+### Do you think it’s useful to learn math? What do you use math for in daily life?
+
+It depends.
+The mathematics knowledge when I learned in primary school is very useful in daily life, such as shopping.
+But that knowledge when I learned in collage is only usefull in my work. 
+
+### Why do some people not like math?
+
+Well, I think there are many cause that people don't like math.
+Firstly,  
+Besides,
+
+### How can people learn math well?
+
+It depends.
+If people just want to address simply problem in thire life, such as calculate money and date. Everyone could learn math well.
+But if people want to achieve some goals in scientific community, I think talent of math is more important.
+
+## Meeting new people
 
 ### Do you often meet new people? 
 
@@ -177,13 +281,11 @@ I am really good at starting and continuing topics, even with new people.
 
 To some extent, I agree. I will give you one example. If a person often wears fashionable clothes, we can know that he or she is keen on fashionable staff and prefers to follow the latest trend. Another example is that normally a person with warm smile often turns out to be a kind person.
 
-## new people 9.17
-
 ### Do you care about other’s comments on your appearance?
 
 Not really. In my view, appearance is not important for me. I belive many qualities are more important than appearance, such as working ability, learning ability and moral virtues for a person. Appearance is only a minor factor for a man.
 
-## Famous people 9.21
+## Famous people 
 
 ###  Have you ever met famous people? 
 
@@ -207,7 +309,7 @@ Yes. I'd like to interview the comedian I have mentioned just now, Yu Qian.
 I want to ask some questions, such as "why is he so humorous with so many jokes?".
 Because I want to be a person who can bring laughter to other, just like him.
 
-## Interests & Hobbies 9.22
+## Interests & Hobbies 
 
 ### Is fishing popular in China?
 
@@ -251,7 +353,7 @@ Well, the first place comes into my mind is aquarium where people can see variou
 Besides, as I mentioned just now, I like eating fish, so I go to the market frequently and see different fish there. 
 In addtional, I’m a fan of fishing, and when I go fishing by the lake, I can see fish swimming about.
 
-## Movie 9.23
+## Movie 
 
 ### When was the last time when you watched a movie? 
 
@@ -271,7 +373,7 @@ But recently, I prepare for the IELTS test and have no chance to watch movies wi
 I like watching comedy.
 The humorous comedians and talented directors can bring happiness to the audience, and comedies can heal people’s pain and sadness, so comedies are attractive to me. 
 
-## Newspaper and Magazine 9.24
+## Newspaper and Magazine 
 
 ### Do you prefer to read newspapers or magazines? What are the differences between the two? 
 
@@ -599,6 +701,55 @@ Anyway, I’m not rich and I also need money to support my daily life.
 
 Of course I will feel bad. 
 I lend money to friends in order to help them go through the tough life, but they don’t give the money back, and I will have a feeling of being cheated.
+
+## Farm & Farming
+
+### Have you ever visited a farm? Have you ever done farm work?
+
+Yes, I lived in the countryside when I was a child. So the farms were very common.
+But I didn't do farm work when I was a kid, and when I attended primary school, I lived in city. So I have never done farm work.
+
+### What kind of farms do you like? What animals are suitable to be kept on farm?
+
+I 
+
+### Do you think farming is important?/ Is agriculture important in China？
+
+Certainly, farming and agriculture is very important in the world not only in China.
+Firstly, everyone need to grab food in everyday, we can do without recreation and other things, but we cann't lost food.
+Besides, if a country want to develop in a good environment, it must make sure the supply of food.
+
+### Do you think farming is a good job?
+
+I think that farming is a important job but not a good job.
+
+
+### Do you want to learn planting?
+
+Yes, I like plant some flowers such as orchid.
+But I have fewer kownledge about plant flower, so the orchid that I plant is not good. 
+As the result, I want to learn some kownledge to plant my flower.
+
+### Do you want to move to a farm?
+
+No, I really don't like the environment of farm.
+There are less convenience than city, such as fewer shops and other infrastructure in countryside.
+For example, when I want to grab some food in there, but there are few restaurant and supermarket.
+But it is a good thing that apprieciate scenery of farm at sometimes.
+
+### Do you think more and more people will grow food by themselves?
+
+No, I think a decreasing number of people growing food by themselves with the process of urbanization.
+More and more people move to city, and there are fewer land to plant crops. So less people grow food by themselves.
+
+## Museums
+
+### Are there many museums in your hometown?
+### Do you like visiting museums?
+### Do you think schools should take their students to visit museums and art galleries?
+### Did you go to any museums when you were a child?
+### Do you think museums are important?
+### Do you think it's suitable for museums to sell things to visitors?
 
 ## Living place & neighbor 11.3
 

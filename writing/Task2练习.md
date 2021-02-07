@@ -104,6 +104,26 @@ People using emoji might **~~weak~~ weaken^7^** people's expression of mood, whi
 9. It is admitted that 写让步使用
 10. occasionally 偶尔，occasionally meet 偶尔见面
 
+### 4. 
+
+![范文图片](./resource/33.jpg)
+
+The government expenditure might be **~~occpied by~~ <u>distributed to</u>^1^** repairing old building in major city in some countries. Some people think that **~~that this money is used to~~ <u>spending this money on</u>^2^** contruction of new building or road is more beneficial. I agree with this statement **<u>because of several reasons</u>^3^**.
+
+Building new house might promote the development of economy. **<u>To be specific,</u>^4^** construction of building always needs numerous workforce **~~and a variety of materials such as steel and concrete~~^5^**, which means that market could provide more job opptunities such as engineers and ordinary works. And these workers might involve in the construction of building and production of building material. So, it will **~~drop~~ <u>reduce</u>^6^** the rate of unemployment .Meanwhile, government needs to buy building material such as steel and concrete from domestic company, which leads to the development of GDP. As a result, the revenue of country will increase.
+
+To invest building of road could solve the problems of traffic in major city. An increasing number of cars in major cities and crowed road might lead to jam, which means that people have to **spend more time in commuting.^7^** So, people might feel anxious and tired. As a result, people might have a sence of unhappiness. So, countries should use money to construction of road instead of restoration of old building.
+
+It is admitted that some old buildings have numerous historical value. So, government need to protect these buildings as tourist attraction and these historical buildings could attract more visitors. As a result, tourist industry could develop.
+
+1. 用词不当
+2. 一般不用 that that 宾语从句中套用主语从句，可改为动词不定式
+3. 用于主体段原因的展开
+4. 具体地说
+5. 第一点是增加劳动力的需求->降低失业率，第二点是通过购买国内的建筑材料->提升GDP
+6. drop 是不及物动词
+7. spend ... in doing sth. spend ... on sth.
+
 
 ## Tourism
 
@@ -240,13 +260,19 @@ Two meansures can be taken to solve this problem. Firstly, parents should create
 
 ![范文图片](./resource/31.jpg)
 
-Recently, with the development of science, many scientists think that people could predict what some children may grow up to be criminals in the future by studying the behavior of these children in their three-year-old. In my view, the crime is not determined by human nature. And it is possible that people prevent children from growing up to be criminal by carrying out some measures such as mental education.
+Recently, with the development of science, many scientists think that people could predict that some children may grow up to be criminals in the future by studying the behavior of these children in their **three years old^1^**. In my view, the crime is not determined by human nature. And it is possible that people prevent children from growing up to be criminal by carrying out some measures such as mental education.
 
-The lack of family education is most important reason which children grow up to be criminal in the future. Because some parents spend more time on their career or work, they always have not enough time to accompany their children, and these parents might not teach their children what is right and wrong, which means that their children might behave badly under the bad influence via making friends who have bad behavior. As a result, these children might grow up to be criminal. 
+The lack of family education is most important reason which children grow up to be criminal in the future. Because some parents spend more time on their career or work, they always have not enough time to accompany their children, and these parents might not teach their children what is right and wrong, which means that their children might behave badly **such as fight and steal ^2^** under the bad influence via making friends who have bad behavior. As a result, these children might grow up to be criminal. 
 
-What unhealthy media said could bring bad effect on children. Some unhealthy media such as Tv, Internet might spread harmful information, and bring bad effect on children, which lead to the fact that some children might learn bad behavior such as abuse and fight. So, some children might grow up to be criminal, though they are considered a good people in their three-year-old.
+What unhealthy media said could bring bad effect on children. Some unhealthy media **program via TV and Internet might spreed harmful information that bring bad effect on children,^3^**  which lead to the fact that some children might learn bad behavior such as abuse and fight. So, some children might grow up to be criminal, though they are considered a good people in their **three years old^1^**.
 
 Two measures can be taken to prevent children growing up to be a criminal. Firstly, parents create a balance between achieving their career goals and accompanying their children. And parents should spend more time on accompanying their children. Secondly, the government should forbid the spread of harmful information, and take care about children who drop out the school.
+
+1. 
+    - three years old 用法：Her son is three years old，When I was eight years old, my sister was three years old.
+    - three-year-old 用法：The 74-year-old mayor is credited...
+2. 缺少父母陪伴->父母没有告诉他们什么是对和错->会跟着有坏习惯比如打架和盗窃的人学坏->进一步导致犯罪
+3. 不健康的媒体节目通过电视或者网络传播有害信息->导致一些孩子学坏行为例如打架->孩子可能会发展成为犯罪
 
 ## Work
 

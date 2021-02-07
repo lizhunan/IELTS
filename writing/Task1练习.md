@@ -112,7 +112,6 @@ Both mobile phone and computer were popular with people in all age, which people
 
 Compared with the user of mobile phone and that of computer, the user of satNav system were not popular with people especially people in their over 65s with about 9%. But the percentage of using satNav system of people in their 24s-44s were third times more than elder people with 30%. And the percentage of people in their 17s-23s using satNav system were about 19%. Similarly, the people who use satNav system in their 45s-64 made up 20%. As for digital TV, the use of people in their 24s-44s took up 70%. The percentage of people in their 17s-23s were 20% less than the percentage of people in their 24s-44s, which was 50%. The percentage of people in their 45s-64s is similar to the percentage of people in their 24s-45s, which was around 70% and 65%. And elder people user account for 40%.
 
-
 ## 动态图
 
 ![范文图片](./resource/14.jpg)
@@ -121,9 +120,7 @@ The table indicates how the number of people involved in wildlife survey activit
 
 The number of adult taking part in a wildlife survey were largest in 2001, which was 36,000. The quantity of children involving in this activity were 12,000. And the figure of adult is more than that of children. In 2001, there are about 48,000 taking part in a wildlife survey in Britain. The period of 2001 to 2005 witnessed a increase in number of adult involved in this activity from 36,000 to 332,000. And this figure peaked at 332,000 in 2005. Similarly, an increase can be saw in number of **children taking part in this activity^1^** 12,000 in 2001 to 36,000 in 2003. But this figure is fall back 32,000 in 2005. From 2005 to 2007, the number of adult and the number of children taking part in wildlife survey declined from 332,000 to 331,000 in adult group and from 32,000 to 31,000 in children group respectively(我想表达的是成人和儿童参加救援活动的人数分别从...增加到...). Howerver, the number of adult involved in this activity dropped from 331.000 in 2007 to 27,000 in 2009. Compared with the number of adult, the quanlity of children rocket sharply from 31,000 to 270,000. And the number of tatal in this activity increased from 48,000 in 2001 to 540,000 in 2009.
 
-1. 没有注明儿童
-
-
+- 没有注明儿童
 
 1. twice 二倍
 2. three times 三倍
@@ -156,6 +153,19 @@ In 1994, the percentage of males smoker in their 14s was the smallest, which was
 2. 16岁先增长后下降, There was a dramatic rise in the percentage of males smoker in their 16s from 27% in 1994 to over 40% in 2000. But this figure drop from about 42% in 2000 to 35% in 2005 
 3. 2000年到2005基本没变，这个趋势要写出来, An increase could saw（be seen） in this figure from 12% in 1994 to 16% in 2000. However, this figure remain stable at 16% for the next 5 years.
 4. 对比一定要体现出来，尤其是男女对比
+
+![范文图片](./resource/32.jpg)
+
+The table shows how the total value of fish imports to the US changes and the pie chart indicates **~~how the sources of fish imports to US are occupid from 1997 to 2007.~~<u>the percentage of the sources of fish imports to the US from 1997, 2003 and 2007 respectively.</u>^1^**
+
+**<u>The total value of fish imports was smallest in 1998 at 6.8 billion. And this figure increased from 6.8 billion in 1998 to 10.5 billion in 2007.</u>^2^** In 1998, the percentage of the quantity of fish from China was smallest, which was about 10%. Compared with the quantity of fish from China, that from Canada and other countries are more popular which occupid around 45% respectively. And this figure were three times than that from China.
+
+About 5 years later, there was a growth in the quantity of imports that fish from China from 10% in 1998 to 20% in 2003. And this figure sharply rose by above 20%  from 2003 to 2007. By contrast, a dropped could be saw in the quantity of imports that fish from tht US from 45% in 1998 to 20% in 2007. And the quantity of fish from China was double more than that of the US. In this period, the quantity of fish from other countries increased by 5% from 1998 to 2003, but this figure dropped from 50% in 2003 to 47%.
+
+- 句式需要丰富
+
+1. 以后最好不要写 ... are occupied 句式
+2. 先写总体的变化趋势（表格内容）
 
 ## 地图题
 
