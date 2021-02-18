@@ -711,7 +711,7 @@ But I didn't do farm work when I was a kid, and when I attended primary school, 
 
 ### What kind of farms do you like? What animals are suitable to be kept on farm?
 
-I 
+I like farm where plant a variety of fruit，because I could eat fruit in there.
 
 ### Do you think farming is important?/ Is agriculture important in China？
 
@@ -721,8 +721,10 @@ Besides, if a country want to develop in a good environment, it must make sure t
 
 ### Do you think farming is a good job?
 
-I think that farming is a important job but not a good job.
-
+I think that farming is a important job but not a good job for a person.
+Because farming is a hard work, people have to work in the fields regardless of rain and sown.
+Besides, farmer's income is very low, in addition to farmers must undertake high cost of farming.
+So, farmers are usually very poor.
 
 ### Do you want to learn planting?
 
@@ -745,13 +747,43 @@ More and more people move to city, and there are fewer land to plant crops. So l
 ## Museums
 
 ### Are there many museums in your hometown?
+
+There is a museums in my homtown about Song dynasty. 
+And my friends and I always went there at the weekend when I was a kid.
+Besides, the commentators in this museum are very friendly, and they tought me a lot of konwledge about history.
+
 ### Do you like visiting museums?
+
+Certainly, I like to visit history museum.
+In this museum, I could obtain a lot of konwledged about history that couldn't learn from class.
+In there, I could observe closely cultural relic, and attend some lectures about Chinese culture and history.
+
 ### Do you think schools should take their students to visit museums and art galleries?
+
+Yes, I think it's quite important to visit museums and galleries for students.
+Firstly, students could observe closely cultural relic, it is irraplaceable than relic pictures in the books.
+Besides, teachers and students could attend some lectures about Chinese culture and history. 
+Importantly, student could easily understand konwledge that their teachers explain in class.
+
 ### Did you go to any museums when you were a child?
+
+Sure, when I was a kid, I always went to visit museums with my father at the weekend.
+In museem, my father usually told some history stories, such as Romance of the Three Kindoms
+
 ### Do you think museums are important?
+
+Yes, it's quite important for people.
+For students, school could take them to visit museums and to obain a lot of history konwledge.
+When it comes to other people, museum is a good place to take a rest and attend some lectures to broaden their horizons.
+
 ### Do you think it's suitable for museums to sell things to visitors?
 
-## Living place & neighbor 11.3
+Well, I think to sell some souvenirs about museum's theme is a win-win situation.
+In the first place, people could buy some souvenirs to collect.
+For example, a theme of history museum about Three Kindoms period could sell some person model such as Liubei and Caocao.
+In the second place, the revenue of selling souvenirs in museum could be used to construction of museum and to improve their level of service. 
+
+## Living place & neighbor
 
 ### What place do you live in? Do you like living there?
 
@@ -778,7 +810,104 @@ Well, we are very close with each other and sometimes go partying together.
 For example, last weekend, we celebrated birthday for my neighbor. 
 Once in a while, we take a walk in the park.
 
-## Sports 11.3
+## Singing
+
+### Do you like singing? Did you like singing when you were young?
+
+
+
+### When do you like to sing?
+
+
+
+### Will you take singing lessons?
+
+
+
+### Do you like listening to other sing?
+
+
+
+### Is it difficult to sing well?
+
+
+
+### Do you want to be a singer?
+
+
+
+### Would you like to learn more about singing inthe future?
+
+
+
+### Is singing popular in your country?
+
+
+
+
+## Reading books
+
+### Do you like reading?
+
+Yes, I like reading books very much.
+When I was a kid, my parents give me a series of books named Harry Potter as my birthday gift.
+I always read these books everyday when I back home from school.
+When I attend to university, I usually read some specialized books.
+
+### Do you like to read at home or in other places?
+
+It depends.
+When I read some specialized books about my major, I always go to labs and library.
+Because I need computer in lab to practise and need some other books to use for reference in library.
+It comes to novels, I prefer read these books in home.
+Because when I was tired, I could take a break in my bed. 
+
+### Where do you like to do some reading?
+
+It depends.
+When I read some specialized books about my major, I always go to labs and library.
+Because I need computer in lab to practise and need some other books to use for reference in library.
+It comes to novels, I prefer read these books in home.
+Because when I was tired, I could take a break in my bed. 
+
+### Where is the perfect place to read?
+
+It depends.
+When I read some specialized books about my major, I always go to labs and library.
+Because I need computer in lab to practise and need some other books to use for reference in library.
+It comes to novels, I prefer read these books in home.
+Because when I was tired, I could take a break in my bed. 
+
+### Do you prefer to read alone or with others？
+
+It depends.
+When I read specialized books such as computer science and math, I'd like to read those book with my classmate or teachers.
+Because I could gained some help when I meet difficulties.
+When I read novals, I prefer read alone, because I want to enjoy this book quietly.
+
+### What kinds of books did you like to read when you were young?
+
+When I was a kid, I prefer read novels such as Harry Potter and Romance of the Three Kindoms.
+I gained some exposure to western culture via Harry Potter and obtain some history konwledge via RTK.
+
+### Have you ever given others books as gifts?
+
+Yes, when my classmate's birthday, I give him a specialized book named C plus. This book is very useful for our major.
+And this book help he learn some konwledge about pragramming.
+
+### Do you like to read paper books or e-books?
+
+It depends.
+When I read specialized books,I prefer e-books than paper.
+Because computer's books are usually very thick. It is not convenient to read and to take some notes
+When I read novels, I like read paper books, becase I fond of the texture of papar.
+
+###  Why are some people reluctant to read books?
+
+
+
+
+## Sports
 
 ### What sports did you like when you were young?
 
