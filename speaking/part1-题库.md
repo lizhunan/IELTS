@@ -223,20 +223,33 @@ For example, many provinces have hot pot. But they are quite different. For inst
 
 ### Do you like math?
 
+- recogniseing a picture
+- recognition 注意发音
+
 Yes, I like math very much, because this subject is very useful for my major. 
-For example, when I develpment of a software about recognize a picture, I must use some mathematic formular help me to achieve some functions. 
+For example, when I develp a software about recogniseing a picture, I must use some mathematic formular help me to achieve some functions. 
 
 ### When did you start to learn math? / Do you learn math in middle school / high school?
 
-When I was a primary school student, I took the first math class. The teacher was very humor and responsible. He always tried to inspire me to use math knowledge in life. 
+- humor  vs. humorous
+
+When I was a primary school student, I took the first math class. The teacher was very humorous and responsible. He always tried to inspire me to use math knowledge in life. 
 So, I liked to learn math at that time. And when I attend middle school and high school, I was keen on math lessons and tried to use math to deal with the physical problems. 
 
 ### Did your teachers deliver it in an interesting way?
+
+- principle of facial recognition
+- success rate of recognition
+- recognition 注意发音
 
 sure, in my collage, my math teacher always show some cases to help me to understand some formulars, and contact with my major subject.
 For example, my teacher told me the principle of facial recognition, and tought me pick up some formulars that could improve the success rate of recognition.
 
 ### Is math a popular/important subject in China?
+
+- attach importance to 
+- technology talents
+- mathematics education.
 
 Certainly, China is a develping country, and we need a lot of technology talents ecspecially in mathematics.
 So, from school to society, we always attach importance to mathematics education.
@@ -249,9 +262,12 @@ But that knowledge when I learned in collage is only usefull in my work.
 
 ### Why do some people not like math?
 
+- motivation to learn math
+- concepts in mathematics are very abstract
+
 Well, I think there are many cause that people don't like math.
-Firstly,  
-Besides,
+Firstly, the concepts in mathematics are very abstract, so, math is very difficult for many people.
+Besides, a lot of people probably don't need complex mathematical formulas, so these people haven't motivation to learn math.   
 
 ### How can people learn math well?
 
@@ -711,20 +727,26 @@ But I didn't do farm work when I was a kid, and when I attended primary school, 
 
 ### What kind of farms do you like? What animals are suitable to be kept on farm?
 
-I like farm where plant a variety of fruit，because I could eat fruit in there.
+I like farm where plant a variety of fruit，because I could eat fresh fruit in there.
+And I enjoy the time that pick up fruit with my friends.
 
-### Do you think farming is important?/ Is agriculture important in China？
+### Do you think farming is important?/ Is agriculture important in China?
+
+- recreation 注意发音
 
 Certainly, farming and agriculture is very important in the world not only in China.
-Firstly, everyone need to grab food in everyday, we can do without recreation and other things, but we cann't lost food.
+Firstly, everyone need to grab food in everyday, we can do without recreation and other things, but we cannot lose food.
 Besides, if a country want to develop in a good environment, it must make sure the supply of food.
 
 ### Do you think farming is a good job?
 
+- regardless of 
+- in addition to 
+- undertake high cost
+
 I think that farming is a important job but not a good job for a person.
 Because farming is a hard work, people have to work in the fields regardless of rain and sown.
-Besides, farmer's income is very low, in addition to farmers must undertake high cost of farming.
-So, farmers are usually very poor.
+Besides, farmer's income is very low, in addition to farmers must undertake high cost of farming. So, farmers are usually very poor.
 
 ### Do you want to learn planting?
 
@@ -734,25 +756,37 @@ As the result, I want to learn some kownledge to plant my flower.
 
 ### Do you want to move to a farm?
 
+- apprieciate scenery
+- It is less convenient than living in cities
+
 No, I really don't like the environment of farm.
-There are less convenience than city, such as fewer shops and other infrastructure in countryside.
+It is less convenient than living in cities, such as fewer shops and other infrastructure in countryside.
 For example, when I want to grab some food in there, but there are few restaurant and supermarket.
 But it is a good thing that apprieciate scenery of farm at sometimes.
 
 ### Do you think more and more people will grow food by themselves?
 
-No, I think a decreasing number of people growing food by themselves with the process of urbanization.
+- decreasing number of people
+- process of urbanization
+- plant crops
+- urbanization 注意发音
+
+No, I think a decreasing number of people will grow food by themselves with the processing of urbanization.
 More and more people move to city, and there are fewer land to plant crops. So less people grow food by themselves.
 
 ## Museums
 
 ### Are there many museums in your hometown?
 
+- commentators
+
 There is a museums in my homtown about Song dynasty. 
-And my friends and I always went there at the weekend when I was a kid.
+And my friends and I always went to there at the weekend when I was a kid.
 Besides, the commentators in this museum are very friendly, and they tought me a lot of konwledge about history.
 
 ### Do you like visiting museums?
+
+- cultural relic 文物
 
 Certainly, I like to visit history museum.
 In this museum, I could obtain a lot of konwledged about history that couldn't learn from class.
@@ -760,23 +794,32 @@ In there, I could observe closely cultural relic, and attend some lectures about
 
 ### Do you think schools should take their students to visit museums and art galleries?
 
+- irreplaceable
+
 Yes, I think it's quite important to visit museums and galleries for students.
-Firstly, students could observe closely cultural relic, it is irraplaceable than relic pictures in the books.
+Firstly, students could observe closely cultural relic, it is irreplaceable than relic pictures in the books.
 Besides, teachers and students could attend some lectures about Chinese culture and history. 
-Importantly, student could easily understand konwledge that their teachers explain in class.
+Importantly, student could easily understand konwledge that their teachers explained in class.
 
 ### Did you go to any museums when you were a child?
+
+- Romance of the Three Kindoms 三国演义
 
 Sure, when I was a kid, I always went to visit museums with my father at the weekend.
 In museem, my father usually told some history stories, such as Romance of the Three Kindoms
 
 ### Do you think museums are important?
 
+- broaden their horizons
+
 Yes, it's quite important for people.
 For students, school could take them to visit museums and to obain a lot of history konwledge.
 When it comes to other people, museum is a good place to take a rest and attend some lectures to broaden their horizons.
 
 ### Do you think it's suitable for museums to sell things to visitors?
+
+- souvenirs
+- period
 
 Well, I think to sell some souvenirs about museum's theme is a win-win situation.
 In the first place, people could buy some souvenirs to collect.
@@ -814,40 +857,64 @@ Once in a while, we take a walk in the park.
 
 ### Do you like singing? Did you like singing when you were young?
 
-
+Of cause, when I was a kid, I fond of music, so, I had learned singing and learned to play the guiter.
+And now, my friends and I always go to karaoke after having dinner or celebreting some events.
 
 ### When do you like to sing?
 
+- holding a party
 
+My friends and I often go to karaok when celebreting birthday or holding a party.
+In addition, when I stay home alone, I play the guiter sometimes, and sing song that I like.
 
 ### Will you take singing lessons?
 
+- practicing English
 
+No, I am preparing for IELTS, so I may not take singing lessons in the future.
+Because I have to spend a lot of time practicing English.
 
 ### Do you like listening to other sing?
 
+- at times, Occasionally 有时候，偶尔
+- sometimes adv
 
+Certainly, I am a fan of Jay Chou. And I often listen his sing when I do exercise.
+And I might sometimes listen some classical music.
 
 ### Is it difficult to sing well?
 
+- brilliant gift and hard practice
 
+Of cause, singing well need brilliant gift and hard practice.
+So, I think it's difficult to sing well.
 
 ### Do you want to be a singer?
 
+- one of the hobbies
+- I don't chose the singer as my career
 
+No, though I like singing very much, that just my one of the hobbies.
+So, I don't chose the singer as my career.
 
-### Would you like to learn more about singing inthe future?
+### Would you like to learn more about singing in the future?
 
-
+No, I am preparing for IELTS, so I may not take singing lessons in the future.
+Because I have to spend a lot of time practicing English.
 
 ### Is singing popular in your country?
 
+- karaoke KTV
+- after we have dinner
 
-
+Sure, we often go to karaoke, when we celebrate some events or birthday.
+For example, my friends and I always go to karaoke after we have dinner.
 
 ## Reading books
 
 ### Do you like reading?
+
+- a series of
 
 Yes, I like reading books very much.
 When I was a kid, my parents give me a series of books named Harry Potter as my birthday gift.
@@ -856,10 +923,12 @@ When I attend to university, I usually read some specialized books.
 
 ### Do you like to read at home or in other places?
 
+- need some other books to use for reference
+
 It depends.
 When I read some specialized books about my major, I always go to labs and library.
 Because I need computer in lab to practise and need some other books to use for reference in library.
-It comes to novels, I prefer read these books in home.
+When it comes to novels, I prefer read these books in home.
 Because when I was tired, I could take a break in my bed. 
 
 ### Where do you like to do some reading?
@@ -887,6 +956,8 @@ When I read novals, I prefer read alone, because I want to enjoy this book quiet
 
 ### What kinds of books did you like to read when you were young?
 
+- I gained some exposure to western culture 接触到西方文化
+
 When I was a kid, I prefer read novels such as Harry Potter and Romance of the Three Kindoms.
 I gained some exposure to western culture via Harry Potter and obtain some history konwledge via RTK.
 
@@ -897,6 +968,9 @@ And this book help he learn some konwledge about pragramming.
 
 ### Do you like to read paper books or e-books?
 
+- thick
+- I fond of the texture of papar
+
 It depends.
 When I read specialized books,I prefer e-books than paper.
 Because computer's books are usually very thick. It is not convenient to read and to take some notes
@@ -904,8 +978,13 @@ When I read novels, I like read paper books, becase I fond of the texture of pap
 
 ###  Why are some people reluctant to read books?
 
+- as vivid as
+- articles
 
-
+Firstly, because reading book isn't as vivid as other media such as movies.
+So, many people think reading is very boring.
+Secondly, people could obtain kownledge from Internet.
+And people could use their phone reading their favorite articles anywhere.
 
 ## Sports
 
@@ -939,7 +1018,7 @@ The fact is that I’m not good at swimming. One of my friends does quite well i
 Yes. When I was in middle school, I fell in love with football and attended the football team. 
 In fact, I used to be very active when I was young and took part in many activities. 
 
-## Weekend activity 11.4 
+## Weekend activity
 
 ### What do you often do at weekends? Who do you spend time with?
 
@@ -961,7 +1040,42 @@ Actually, My friends and I have an appointment that next week we will go fishing
 
 Actually, My friends and I have an appointment that next week we will go fishing.
 
-## Handwriting 11.4
+## TV program
+
+### Do you like watching TV program?
+
+Sure, I like watching Tv very much.
+I usually watch movies such as Harry Potter at CCTV-6.
+Through watching some excellent foreign films, I could learn westen culture.
+
+### What types of TV programs do you like to watch?
+
+I like watching movies such as Harry Potter.
+Through watching some excellent foreign films, I could learn westen culture.
+
+### Do to stick to one type of program all the time? / Have you ever changed your taste / preference ?
+
+When I was a kid, I liked watch cartoons such as Tom and Jerry. These excellent cartoons bought me a nice experience.
+But now, I like some films and some variety shows.
+
+### Do you talk to your friends about the programs?
+
+Certainly. 
+When I known a funny program, I would share this program to my friends immediately.
+And when I watching TV shows with my friends, we always talk about the plot of programs.
+
+### Do you like watching TV shows by yourself?
+
+Occasionally.
+But I prefer watching TV shows with my friends.
+Because I usually talk about the plot of program and share happiness with others.
+
+### Do you watch the shows on TV or from the phone? 
+
+When I was a kid, I liked watching shows on phone, because my parents don't allow me to watch TV before sleep, I had no choice but to watch shows on my phone furtively.
+But now, I prefer watching shows on TV, because I have a big TV and I have a better experience on TV than using phone. 
+
+## Handwriting
 
 ### Do you prefer to write by hand or with computer? / Do you often write with a pen?
 
@@ -997,7 +1111,7 @@ If a person’s handwriting is clear and neat, he or she is usually a careful pe
 Yes, it’s of great meaning to write cards or letters. 
 For example, on my friends’ birthday, I usually write cards for them, and it’s beneficial for our friendship. 
 
-## Text message 11.5
+## Text message
 
 ### Do you like texting messages?
 
@@ -1022,7 +1136,70 @@ But when it comes to my boss, it will be another story /it will be the opposite.
 
 Yes, I have received many confusing messages, most of which are the frauds, saying something I couldn’t understand.
 
-## Fruit 11.5
+## Trees
+
+### Have you ever planted trees?
+
+- Arbor Day 植树节
+- in groups of three 三人为一组
+- water 浇水v.
+
+Yes, when I was a primary school student, our school organizesed us to plant trees in the park on Arbor Day. 
+We planted a tree in groups of three students. And then we watered the tree.
+
+### Do you like planting trees? Do you like trees which can produce fruit?
+
+- grapevine 葡萄树
+- This tree is very productive
+
+Sure, I like planting trees very much. 
+My grandmather plant a grapevine in her garden. I usually went to there when I was a kid. 
+And I watered the grapevine at sometime. This tree is very productive. So, my family could eat grape every summer.
+
+### Are there many ( important ) trees in your country?
+
+- attacked by sandstorm 受到沙尘暴的侵扰
+- sandstorm 沙尘暴
+
+Yes, It is quite important to plant trees in whole of the world, not only in China.
+In the past, the west of Inner Mongolia always attacked by sandstorm. So, we plant some trees in there. As the result, the problem of sandstorm has been improved. 
+
+### Do many people plant trees in your area?
+
+- ordinary citizens 普通市民
+
+Ordinary citizens are not often plant trees except living in countryside. 
+But for our country, every local government plant a lot of trees every year.
+
+### What trees are common in your hometown?
+
+- roadside 路边
+- willow 柳树
+- catkins
+
+There are a variety of trees in my hometown
+I think the common tree is willow. We could notice this kind of tree in everywhere such as roadside and park. Especially, willow always produce a lot of catkin in Spring.
+
+### What time is suitable to grow trees in a year?
+
+
+
+### Do people give others plants as gifts in China?
+
+
+
+### What plants do Chinese people like to grow in China?
+
+- about 2 meters tall 两米高
+- homophone 同音异形
+- fortune 财富
+
+Chinese like to plant a kind of trees with less leaves and about 2 meters tall.
+But I don't know what english name this tree is. Its Chinese name is FaCai tree.
+And this name is a homophone for fortune
+
+
+## Fruit
 
 ### What fruit do you like to eat?
 
@@ -1044,7 +1221,7 @@ There are rich vitamins in these fruits. It’s beneficial for our health.
 Sure, we have many delicious fruits in China, such as an apple called HFS. 
 It is the local specialty in Yantai. This kind of apple is big, red and delicious. 
 
-## Clothes 11.9
+## Clothes
 
 ### What kind of clothes do you like to wear?
 
@@ -1081,7 +1258,7 @@ When taking part in other’s wedding as the best man, I always wear suit to sho
 I like white clothes which look neat and tidy.
 Importantly, white is my favorite color.
 
-## Furniture 11.9
+## Furniture
 
 ### Do you have many pieces of furniture at home?
 
@@ -1103,7 +1280,7 @@ All the furniture I use now is provided by the landlord.
 
 Actually, I want to have a bookshelf because I have many books which now piles up in the corner of my room. I want to have a shelf to keep my books.
 
-## Change 11.10
+## Change
 
 ### Do you like changes?
 
